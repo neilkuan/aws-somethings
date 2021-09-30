@@ -4,16 +4,16 @@ on:
     branches:
       - main
   schedule:
-    - cron: 43 * * * *
+    - cron: 45 * * * *
   workflow_dispatch: {}
 
 jobs:
   update:
     name: Update AWS Managed Policies
     runs-on: ubuntu-latest
-    python-version: ['3.8']
     strategy:
       matrix:
+        python-version: ['3.8']
     steps:
       - name: Checkout
         uses: actions/checkout@v2
