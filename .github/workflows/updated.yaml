@@ -47,7 +47,13 @@ jobs:
           name: update.txt
           path: ${{ runner.temp }}
       - name: Apply patch
-        run: '[ `cat ${{ runner.temp }}/update.txt` == "Y" ] && git add . || echo "Skipping."'
+        run: |-
+          export FINAL=$(cat ${{ runner.temp }}/update.txt)
+          echo "::group::My title"
+          echo "Inside group $FINAL"
+          echo "::endgroup::"
+          cat ${{ runner.temp }}/update.txt && [ `cat ${{ runner.temp }}/update.txt` == "Y" ] && git add . || echo "Skipping."
+
       - name: Create Pull Request
         id: create-pr
         uses: peter-evans/create-pull-request@v3
