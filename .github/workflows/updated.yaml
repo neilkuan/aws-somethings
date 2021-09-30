@@ -60,5 +60,5 @@ jobs:
           commit-message: update authors
           title: Update
           body: 'chore(policies): update'
-          branch: main
+          branch: update
         
