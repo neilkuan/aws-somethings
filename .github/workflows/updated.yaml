@@ -1,0 +1,82 @@
+name: Update
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: 37 * * * *
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    name: Update AWS Managed Policies
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x86'
+      - name: Run Update AWS Managed Policies
+        run: pip install -r requirements.txt && python app.py
+      - name: Upload patch
+        uses: actions/upload-artifact@v2
+        with:
+          name: update.txt
+          path: update.txt
+  pr:
+    name: Create Pull Request
+    needs: update
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      checks: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Download patch
+        uses: actions/download-artifact@v2
+        with:
+          name: update.txt
+          path: ${{ runner.temp }}
+      - name: Apply patch
+        run: '[ `cat ${{ runner.temp }}/update.txt` == "Y" ] && git add . || echo "Skipping."'
+      - name: Create Pull Request
+        id: create-pr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.AUTOMATION_GITHUB_TOKEN }}
+          commit-message: >-
+            chore(policies): update policies
+            Upgrades IAM Policies. See details in [workflow run].
+            [Workflow Run]: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            ------
+          branch: github-actions/update
+          title: "chore(policies): update policies"
+          labels: auto-approve
+          body: >-
+            Upgrades project dependencies. See details in [workflow run].
+            [Workflow Run]: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            ------
+          author: Automation <github-actions@github.com>
+          committer: Automation <github-actions@github.com>
+      - name: Update status check
+        if: steps.create-pr.outputs.pull-request-url != ''
+        run: "curl -i --fail -X POST -H \"Accept: application/vnd.github.v3+json\" -H
+          \"Authorization: token ${GITHUB_TOKEN}\"
+          https://api.github.com/repos/${{ github.repository }}/check-runs -d
+          '{\"name\":\"build\",\"head_sha\":\"github-actions/upgrade\",\"status\
+          \":\"completed\",\"conclusion\":\"${{ needs.upgrade.outputs.conclusion
+          }}\",\"output\":{\"title\":\"Created via the upgrade
+          workflow.\",\"summary\":\"Action run URL: https://github.com/${{
+          github.repository }}/actions/runs/${{ github.run_id }}\"}}'"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
