@@ -863,5 +863,6 @@
     "AmazonNimbleStudio-StudioAdmin",
     "AWSCodeArtifactReadOnlyAccess",
     "AmazonRedshiftDataFullAccess",
-    "AWSApplicationMigrationReplicationServerPolicy"
+    "AWSApplicationMigrationReplicationServerPolicy",
+    "APPLE"
 ]
