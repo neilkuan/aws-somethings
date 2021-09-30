@@ -157,6 +157,7 @@
     "AmazonElasticFileSystemReadOnlyAccess",
     "AWSCloudMapDiscoverInstanceAccess",
     "CloudFrontFullAccess",
+    "AmazonConnectFullAccess",
     "AWSCloud9Administrator",
     "AWSApplicationAutoscalingEMRInstanceGroupPolicy",
     "AmazonTextractFullAccess",
@@ -863,6 +864,5 @@
     "AmazonNimbleStudio-StudioAdmin",
     "AWSCodeArtifactReadOnlyAccess",
     "AmazonRedshiftDataFullAccess",
-    "AWSApplicationMigrationReplicationServerPolicy",
-    "APPLE"
+    "AWSApplicationMigrationReplicationServerPolicy"
 ]
