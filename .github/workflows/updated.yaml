@@ -4,13 +4,16 @@ on:
     branches:
       - main
   schedule:
-    - cron: 37 * * * *
+    - cron: 43 * * * *
   workflow_dispatch: {}
 
 jobs:
   update:
     name: Update AWS Managed Policies
     runs-on: ubuntu-latest
+    python-version: ['3.8']
+    strategy:
+      matrix:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -20,10 +23,6 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
-      - uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'
-          architecture: 'x86'
       - name: Run Update AWS Managed Policies
         run: pip install -r requirements.txt && python app.py
       - name: Upload patch
