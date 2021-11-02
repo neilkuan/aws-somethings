@@ -738,6 +738,7 @@
     "AmazonWorkSpacesServiceAccess",
     "AWSSecurityHubOrganizationsAccess",
     "AmazonElasticFileSystemsUtils",
+    "AWSCostAndUsageReportAutomationPolicy",
     "MemoryDBServiceRolePolicy",
     "AWSLicenseManagerConsumptionPolicy",
     "AWSTransferConsoleFullAccess",
