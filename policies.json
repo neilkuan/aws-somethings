@@ -607,6 +607,7 @@
     "AmazonSageMakerPipelinesIntegrations",
     "AppRunnerServiceRolePolicy",
     "AWSThinkboxDeadlineResourceTrackerAdminPolicy",
+    "AmazonRedshiftAllCommandsFullAccess",
     "IAMAccessAdvisorReadOnly",
     "AmazonSageMakerFeatureStoreAccess",
     "AmazonCodeGuruReviewerReadOnlyAccess",
