@@ -157,6 +157,7 @@
     "AmazonElasticFileSystemReadOnlyAccess",
     "AWSCloudMapDiscoverInstanceAccess",
     "CloudFrontFullAccess",
+    "AmazonConnectFullAccess",
     "AWSCloud9Administrator",
     "AWSApplicationAutoscalingEMRInstanceGroupPolicy",
     "AmazonTextractFullAccess",
