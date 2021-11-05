@@ -14,8 +14,6 @@ jobs:
     permissions:
       contents: read
     strategy:
-      matrix:
-        python-version: ['3.8']
     outputs:
       conclusion: ${{ steps.build.outputs.conclusion }}
     steps:
@@ -29,7 +27,7 @@ jobs:
           aws-region: us-east-1
       - name: Run Update AWS Managed Policies
         id: build 
-        run: pip install -r requirements.txt && python app.py  && echo "::set-output name=conclusion::success" || echo
+        run: ./check && echo "::set-output name=conclusion::success" || echo
           "::set-output name=conclusion::failure"
       - name: Upload patch
         uses: actions/upload-artifact@v2
