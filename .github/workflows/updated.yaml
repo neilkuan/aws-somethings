@@ -67,7 +67,7 @@ jobs:
         run: |-
           export FINAL=$(cat ${{ runner.temp }}/update.txt)
           echo "::group::Echo Group"
-          echo "Inside group ${{ FINAL }}"
+          echo "Inside group $FINAL"
           echo "::endgroup::"
           cat ${{ runner.temp }}/update.txt && [ `cat ${{ runner.temp }}/update.txt` == "Y" ] &&  [ -s ${{ runner.temp }}/.upgrade.tmp.patch ] && git apply ${{ runner.temp
           }}/.upgrade.tmp.patch || echo "Skipping."
