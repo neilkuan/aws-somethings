@@ -61,13 +61,6 @@ func main() {
 	enCodeList, err := json.MarshalIndent(newPolicyList, "", "    ")
 	checkError(err)
 
-	// policyNewTemp, err := os.Create("policy-new-temp.json")
-	// checkError(err)
-	// _, err = policyNewTemp.Write(enCodeList)
-	// checkError(err)
-	// newPolicy, err := ioutil.ReadFile("policy-new-temp.json")
-	// checkError(err)
-
 	updateFile, err := os.Create("update.txt")
 	checkError(err)
 
