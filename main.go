@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bytes"
 	"context"
 	"encoding/json"
 	"io/ioutil"
@@ -62,17 +61,17 @@ func main() {
 	enCodeList, err := json.MarshalIndent(newPolicyList, "", "    ")
 	checkError(err)
 
-	policyNewTemp, err := os.Create("policy-new-temp.json")
-	checkError(err)
-	_, err = policyNewTemp.Write(enCodeList)
-	checkError(err)
-	newPolicy, err := ioutil.ReadFile("policy-new-temp.json")
-	checkError(err)
+	// policyNewTemp, err := os.Create("policy-new-temp.json")
+	// checkError(err)
+	// _, err = policyNewTemp.Write(enCodeList)
+	// checkError(err)
+	// newPolicy, err := ioutil.ReadFile("policy-new-temp.json")
+	// checkError(err)
 
 	updateFile, err := os.Create("update.txt")
 	checkError(err)
 
-	if !bytes.Equal(oldPolicy, newPolicy) {
+	if !(string(oldPolicy) == string(enCodeList)) {
 		log.Println("Start to Update policies.json...")
 		err = ioutil.WriteFile("policies.json", enCodeList, 0644)
 		checkError(err)
@@ -85,7 +84,4 @@ func main() {
 		log.Println("Not need to update update.txt...")
 		updateFile.WriteString("N")
 	}
-
-	log.Println("start to remove temp file...")
-	os.Remove("policy-new-temp.json")
 }
