@@ -590,6 +590,7 @@
     "AWSOpsWorksRegisterCLI_OnPremises",
     "Health_OrganizationsServiceRolePolicy",
     "AWSMigrationHubStrategyServiceRolePolicy",
+    "AWSApplicationMigrationVCenterClientPolicy",
     "AmazonRDSCustomServiceRolePolicy",
     "AmazonElasticContainerRegistryPublicFullAccess",
     "AmazonMCSReadOnlyAccess",
