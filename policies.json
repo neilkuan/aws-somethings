@@ -771,6 +771,7 @@
     "AWSBugBustServiceRolePolicy",
     "AWSAppRunnerServicePolicyForECRAccess",
     "AWSNetworkManagerReadOnlyAccess",
+    "AmazonDevOpsGuruOrganizationsAccess",
     "AmazonEMRServicePolicy_v2",
     "AWSApplicationMigrationReadOnlyAccess",
     "AWSServiceCatalogAppRegistryReadOnlyAccess",
