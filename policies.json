@@ -510,6 +510,7 @@
     "AmazonEventBridgeReadOnlyAccess",
     "AWSCodeStarNotificationsServiceRolePolicy",
     "AWSMarketplacePurchaseOrdersServiceRolePolicy",
+    "AmazonInspector2ServiceRolePolicy",
     "AmazonKendraFullAccess",
     "AmazonEMRFullAccessPolicy_v2",
     "AmazonS3OutpostsFullAccess",
