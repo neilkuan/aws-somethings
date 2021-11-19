@@ -1,6 +1,7 @@
 package main
 
 import (
+	"aws-somethings/iam"
 	"context"
 	"encoding/json"
 	"io/ioutil"
@@ -9,32 +10,7 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/config"
-	"github.com/aws/aws-sdk-go-v2/service/iam"
-	"github.com/aws/aws-sdk-go-v2/service/iam/types"
 )
-
-func ListIAMPolicy(cfg aws.Config) []*string {
-	iamsvc := iam.NewFromConfig(cfg)
-	plist := []*string{}
-	truncatedListing := true
-	var resp *iam.ListPoliciesOutput
-	var err error
-	params := &iam.ListPoliciesInput{
-		Scope:    types.PolicyScopeTypeAws,
-		MaxItems: aws.Int32(1000),
-	}
-	for truncatedListing {
-		resp, err = iamsvc.ListPolicies(context.TODO(), params)
-		checkError(err)
-		for _, policy := range resp.Policies {
-			plist = append(plist, policy.PolicyName)
-		}
-		params.Marker = resp.Marker
-		truncatedListing = resp.IsTruncated
-	}
-
-	return plist
-}
 
 func checkError(err error) {
 	if err != nil {
@@ -50,7 +26,7 @@ func GetIamConfigure() aws.Config {
 
 func main() {
 	defConfg := GetIamConfigure()
-	newPolicyList := ListIAMPolicy(defConfg)
+	newPolicyList := iam.ListIAMPolicy(defConfg)
 	oldPolicy, err := ioutil.ReadFile("policies.json")
 	checkError(err)
 
