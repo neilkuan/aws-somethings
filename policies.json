@@ -687,7 +687,6 @@
     "S3StorageLensServiceRolePolicy",
     "ServerMigrationServiceConsoleFullAccess",
     "AWSAppSyncServiceRolePolicy",
-    "AWSECRPullThroughCacheServiceRolePolicy",
     "AWSAppMeshFullAccess",
     "AWSIncidentManagerServiceRolePolicy",
     "AWSProtonFullAccess",
