@@ -691,6 +691,7 @@
     "AWSDeepRacerDefaultMultiUserAccess",
     "AWSLambda_ReadOnlyAccess",
     "AWSCodePipeline_ReadOnlyAccess",
+    "AWSPrivateNetworksServiceRolePolicy",
     "S3StorageLensServiceRolePolicy",
     "ServerMigrationServiceConsoleFullAccess",
     "AWSAppSyncServiceRolePolicy",
