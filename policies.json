@@ -646,6 +646,7 @@
     "AmazonChimeVoiceConnectorServiceLinkedRolePolicy",
     "AmazonPrometheusQueryAccess",
     "AmazonGrafanaRedshiftAccess",
+    "AmazonDevOpsGuruConsoleFullAccess",
     "AmazonWorkDocsFullAccess",
     "AmazonHoneycodeWorkbookReadOnlyAccess",
     "MediaPackageServiceRolePolicy",
