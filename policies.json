@@ -896,6 +896,7 @@
     "AmazonElasticContainerRegistryPublicPowerUser",
     "AmazonPrometheusConsoleFullAccess",
     "AWSElasticBeanstalkRoleSNS",
+    "EC2FastLaunchServiceRolePolicy",
     "AmazonEKSVPCResourceController",
     "EC2InstanceConnect",
     "AWSCompromisedKeyQuarantineV2",
