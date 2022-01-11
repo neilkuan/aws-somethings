@@ -544,6 +544,7 @@
     "AmazonManagedBlockchainFullAccess",
     "ServiceQuotasFullAccess",
     "AmazonTimestreamFullAccess",
+    "AWSAppRunnerFullAccess",
     "AmazonInspector2FullAccess",
     "ElementalAppliancesSoftwareReadOnlyAccess",
     "AmazonLookoutVisionFullAccess",
