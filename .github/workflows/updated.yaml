@@ -20,14 +20,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Configure AWS credentials
-        #uses: aws-actions/configure-aws-credentials@master
-        uses: christopher-dG/gh-aws-oidc@v1
+        uses: aws-actions/configure-aws-credentials@v1
+        #uses: christopher-dG/gh-aws-oidc@v1
         with:
-          role-arn: ${{ secrets.GITHUBACTION_ROLE }}
-          #role-to-assume: ${{ secrets.GITHUBACTION_ROLE }}
-          #role-session-name: github-workflow-rolesession
-          #aws-region: us-east-1
-          region: us-east-1
+          #role-arn: ${{ secrets.GITHUBACTION_ROLE }}
+          role-to-assume: ${{ secrets.GITHUBACTION_ROLE }}
+          role-session-name: github-workflow-rolesession
+          aws-region: us-east-1
+          #region: us-east-1
       - name: Run Update AWS Managed Policies
         id: build 
         run: ./check && echo "::set-output name=conclusion::success" || echo
