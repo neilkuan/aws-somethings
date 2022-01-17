@@ -516,6 +516,7 @@
     "AmazonKendraFullAccess",
     "AmazonEMRFullAccessPolicy_v2",
     "AmazonS3OutpostsFullAccess",
+    "AppRunnerNetworkingServiceRolePolicy",
     "AmazonRedshiftQueryEditorV2FullAccess",
     "AWSQuickSightElasticsearchPolicy",
     "AmazonRoute53RecoveryControlConfigFullAccess",
