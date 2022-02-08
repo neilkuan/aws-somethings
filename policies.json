@@ -856,7 +856,6 @@
     "ServerMigration_ServiceRole",
     "AWSAppMeshPreviewEnvoyAccess",
     "AWSOutpostsServiceRolePolicy",
-    "AmazonLambdaRolePolicyForLaunchWizardSAP",
     "AmazonEC2RoleforAWSCodeDeployLimited",
     "AWSElementalMediaTailorFullAccess",
     "AWSMigrationHubStrategyConsoleFullAccess",
