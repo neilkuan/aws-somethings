@@ -917,6 +917,7 @@
     "AmazonS3OutpostsReadOnlyAccess",
     "AWSCompromisedKeyQuarantine",
     "AWSAppMeshEnvoyAccess",
+    "AWSAppRunnerReadOnlyAccess",
     "AmazonRoute53RecoveryClusterReadOnlyAccess",
     "AmazonKendraReadOnlyAccess",
     "AmazonPrometheusFullAccess",
