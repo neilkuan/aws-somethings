@@ -686,6 +686,7 @@
     "AWSDeepRacerAccountAdminAccess",
     "AWSEC2CapacityReservationFleetRolePolicy",
     "AmazonKeyspacesFullAccess",
+    "ROSAManageSubscription",
     "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction",
     "AWSAppMeshReadOnly",
     "ComputeOptimizerServiceRolePolicy",
