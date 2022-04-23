@@ -251,7 +251,6 @@
     "LightsailExportAccess",
     "AmazonAPIGatewayAdministrator",
     "AmazonVPCCrossAccountNetworkInterfaceOperations",
-    "AmazonMacieSetupRole",
     "AmazonPollyReadOnlyAccess",
     "AmazonRDSDataFullAccess",
     "AmazonMobileAnalyticsWriteOnlyAccess",
