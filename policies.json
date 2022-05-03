@@ -608,6 +608,7 @@
     "AWSIdentitySyncFullAccess",
     "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy",
     "AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy",
+    "MonitronServiceRolePolicy",
     "AmazonSSMPatchAssociation",
     "AWSBudgetsReadOnlyAccess",
     "AWSOpsWorksRegisterCLI_OnPremises",
