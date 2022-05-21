@@ -667,6 +667,7 @@
     "AmazonDevOpsGuruConsoleFullAccess",
     "AmazonWorkDocsFullAccess",
     "AmazonHoneycodeWorkbookReadOnlyAccess",
+    "AmazonEMRServerlessServiceRolePolicy",
     "MediaPackageServiceRolePolicy",
     "AmazonGrafanaAthenaAccess",
     "IAMAccessAnalyzerReadOnlyAccess",
