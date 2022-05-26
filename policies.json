@@ -487,6 +487,7 @@
     "AmazonChimeSDK",
     "AwsGlueDataBrewFullAccessPolicy",
     "AmazonElasticContainerRegistryPublicReadOnly",
+    "AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM",
     "AWSIoTDeviceTesterForFreeRTOSFullAccess",
     "Route53ResolverServiceRolePolicy",
     "WAFV2LoggingServiceRolePolicy",
