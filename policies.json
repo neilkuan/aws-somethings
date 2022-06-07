@@ -633,6 +633,7 @@
     "AmazonEKSFargatePodExecutionRolePolicy",
     "AWSIoTWirelessReadOnlyAccess",
     "AmazonSageMakerPipelinesIntegrations",
+    "AWSApplicationMigrationAgentPolicy_v2",
     "AppRunnerServiceRolePolicy",
     "AWSThinkboxDeadlineResourceTrackerAdminPolicy",
     "AmazonRedshiftAllCommandsFullAccess",
