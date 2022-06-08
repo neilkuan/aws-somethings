@@ -948,6 +948,7 @@
     "AmazonPrometheusFullAccess",
     "AWS_ConfigRole",
     "AmazonOpenSearchServiceReadOnlyAccess",
+    "AWSM2ServicePolicy",
     "AmazonConnectCampaignsServiceLinkedRolePolicy",
     "AmazonNimbleStudio-StudioAdmin",
     "AWSCodeArtifactReadOnlyAccess",
