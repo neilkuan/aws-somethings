@@ -901,6 +901,7 @@
     "AWSApplicationMigrationEC2Access",
     "AmazonCloudWatchEvidentlyFullAccess",
     "AWSImageBuilderReadOnlyAccess",
+    "AWSCloudTrail_ReadOnlyAccess",
     "AWSGrafanaConsoleReadOnlyAccess",
     "AWSMarketplaceMeteringRegisterUsage",
     "AmazonManagedBlockchainReadOnlyAccess",
