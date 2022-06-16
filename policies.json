@@ -783,7 +783,6 @@
     "AWSBackupOperatorAccess",
     "AWSMigrationHubRefactorSpacesServiceRolePolicy",
     "AWSApplicationAutoscalingLambdaConcurrencyPolicy",
-    "AWSBudgetsActionsRolePolicyForResourceAdministrationWithSSM",
     "AWSIoTDeviceDefenderUpdateCACertMitigationAction",
     "AWSBackupServiceLinkedRolePolicyForBackupTest",
     "AWSApplicationMigrationMGHAccess",
