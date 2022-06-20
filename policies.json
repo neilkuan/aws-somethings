@@ -545,6 +545,7 @@
     "AmazonBraketJobsExecutionPolicy",
     "AmazonEC2RolePolicyForLaunchWizard",
     "AmazonAppFlowReadOnlyAccess",
+    "AWSApplicationMigrationAgentInstallationPolicy",
     "AmazonLookoutVisionConsoleReadOnlyAccess",
     "AWSQuickSightTimestreamPolicy",
     "AmazonManagedBlockchainFullAccess",
