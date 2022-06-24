@@ -808,6 +808,7 @@
     "AmazonElasticMapReducePlacementGroupPolicy",
     "AWSElasticDisasterRecoveryConsoleFullAccess",
     "AmazonCognitoIdpServiceRolePolicy",
+    "AWSWellArchitectedOrganizationsServiceRolePolicy",
     "AmazonMQServiceRolePolicy",
     "AWSApplicationMigrationServiceRolePolicy",
     "AmazonMemoryDBFullAccess",
