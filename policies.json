@@ -801,6 +801,7 @@
     "AWSTransferConsoleFullAccess",
     "AmazonEKSServiceRolePolicy",
     "AWSIoTWirelessLogging",
+    "AWSRolesAnywhereServicePolicy",
     "AWSConfigMultiAccountSetupPolicy",
     "AWSIoTWirelessFullAccess",
     "AWSElementalMediaLiveReadOnly",
