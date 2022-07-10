@@ -165,6 +165,7 @@
     "AmazonDocDBFullAccess",
     "AmazonMobileAnalyticsNon-financialReportAccess",
     "AmazonCognitoDeveloperAuthenticatedIdentities",
+    "AWSConfigRole",
     "AWSSSOMemberAccountAdministrator",
     "AWSApplicationAutoscalingAppStreamFleetPolicy",
     "AWSCertificateManagerPrivateCAFullAccess",
