@@ -687,6 +687,7 @@
     "AWSIoTFleetHubFederationAccess",
     "AWSProtonSyncServiceRolePolicy",
     "AmazonElasticFileSystemClientReadWriteAccess",
+    "AWSNetworkManagerCloudWANServiceRolePolicy",
     "AWSElasticDisasterRecoveryServiceRolePolicy",
     "AWSApplicationAutoscalingComprehendEndpointPolicy",
     "AWSCloudShellFullAccess",
