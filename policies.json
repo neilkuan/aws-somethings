@@ -585,6 +585,7 @@
     "AWSElasticDisasterRecoveryEc2InstancePolicy",
     "AWSProtonReadOnlyAccess",
     "AmazonLexV2BotPolicy",
+    "AmazonGuardDutyMalwareProtectionServiceRolePolicy",
     "AWSMigrationHubOrchestratorInstanceRolePolicy",
     "AWSIQContractServiceRolePolicy",
     "AWSStorageGatewayServiceRolePolicy",
