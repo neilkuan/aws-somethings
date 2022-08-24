@@ -474,6 +474,7 @@
     "CloudWatchEventsFullAccess",
     "AWSLicenseManagerMemberAccountRolePolicy",
     "AWSOrganizationsFullAccess",
+    "AmazonEKSLocalOutpostServiceRolePolicy",
     "AWSCodePipeline_FullAccess",
     "DynamoDBKinesisReplicationServiceRolePolicy",
     "AWSApplicationAutoscalingElastiCacheRGPolicy",
