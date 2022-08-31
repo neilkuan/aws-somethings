@@ -836,6 +836,7 @@
     "AWSMigrationHubOrchestratorServiceRolePolicy",
     "AWSElasticBeanstalkRoleWorkerTier",
     "AmazonCodeGuruProfilerReadOnlyAccess",
+    "AmazonSSMManagedEC2InstanceDefaultPolicy",
     "ElementalActivationsGenerateLicenses",
     "AWSShieldServiceRolePolicy",
     "AWSBugBustServiceRolePolicy",
