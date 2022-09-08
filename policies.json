@@ -294,7 +294,6 @@
     "AWSSSODirectoryReadOnly",
     "AmazonMachineLearningCreateOnlyAccess",
     "AmazonKinesisVideoStreamsReadOnlyAccess",
-    "AWSCloudTrailReadOnlyAccess",
     "WAFRegionalLoggingServiceRolePolicy",
     "AWSLambdaExecute",
     "AWSGlueConsoleSageMakerNotebookFullAccess",
