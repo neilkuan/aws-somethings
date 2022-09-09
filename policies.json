@@ -818,6 +818,7 @@
     "AmazonCognitoIdpServiceRolePolicy",
     "AWSWellArchitectedOrganizationsServiceRolePolicy",
     "AmazonMQServiceRolePolicy",
+    "AmazonSageMakerCanvasFullAccess",
     "AWSApplicationMigrationServiceRolePolicy",
     "AmazonMemoryDBFullAccess",
     "AmazonKeyspacesReadOnlyAccess",
