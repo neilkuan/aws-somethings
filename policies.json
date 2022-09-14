@@ -817,6 +817,7 @@
     "AWSElasticDisasterRecoveryConsoleFullAccess",
     "AmazonCognitoIdpServiceRolePolicy",
     "AWSWellArchitectedOrganizationsServiceRolePolicy",
+    "AmazonCloudWatchEvidentlyServiceRolePolicy",
     "AmazonMQServiceRolePolicy",
     "AmazonSageMakerCanvasFullAccess",
     "AWSApplicationMigrationServiceRolePolicy",
