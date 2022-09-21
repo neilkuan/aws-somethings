@@ -630,6 +630,7 @@
     "AWSRoboMaker_FullAccess",
     "AWSAppMeshPreviewServiceRolePolicy",
     "ServiceQuotasServiceRolePolicy",
+    "AWSDeviceFarmServiceRolePolicy",
     "AWSLambdaMSKExecutionRole",
     "ComputeOptimizerReadOnlyAccess",
     "AlexaForBusinessPolyDelegatedAccessPolicy",
