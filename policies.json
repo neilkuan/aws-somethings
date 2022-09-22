@@ -642,6 +642,7 @@
     "AWSApplicationMigrationAgentPolicy_v2",
     "AppRunnerServiceRolePolicy",
     "AWSThinkboxDeadlineResourceTrackerAdminPolicy",
+    "AWSIoTFleetwiseServiceRolePolicy",
     "AmazonRedshiftAllCommandsFullAccess",
     "IAMAccessAdvisorReadOnly",
     "AmazonSageMakerFeatureStoreAccess",
