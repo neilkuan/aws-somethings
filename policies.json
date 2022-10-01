@@ -671,6 +671,7 @@
     "AmazonEMRReadOnlyAccessPolicy_v2",
     "AmazonEventBridgeApiDestinationsServiceRolePolicy",
     "AwsGlueSessionUserRestrictedNotebookServiceRole",
+    "AppIntegrationsServiceLinkedRolePolicy",
     "AWSServiceRoleForCodeGuru-Profiler",
     "AmazonChimeVoiceConnectorServiceLinkedRolePolicy",
     "AmazonPrometheusQueryAccess",
