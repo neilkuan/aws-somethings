@@ -105,7 +105,6 @@
     "AmazonMobileAnalyticsFullAccess",
     "AWSMobileHub_FullAccess",
     "AmazonAPIGatewayPushToCloudWatchLogs",
-    "AWSDataPipelineRole",
     "CloudWatchFullAccess",
     "AmazonMQApiReadOnlyAccess",
     "AWSDeepLensLambdaFunctionAccessPolicy",
