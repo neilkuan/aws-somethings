@@ -715,6 +715,7 @@
     "AmazonBraketFullAccess",
     "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy",
     "AmazonLexChannelsAccess",
+    "AmazonAppStreamPCAAccess",
     "AlexaForBusinessLifesizeDelegatedAccessPolicy",
     "AmazonOpenSearchServiceCognitoAccess",
     "AmazonTimestreamReadOnlyAccess",
