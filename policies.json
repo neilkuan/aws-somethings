@@ -682,6 +682,7 @@
     "AmazonWorkDocsFullAccess",
     "AWSResourceExplorerReadOnlyAccess",
     "AmazonHoneycodeWorkbookReadOnlyAccess",
+    "AmazonGrafanaServiceLinkedRolePolicy",
     "AmazonEMRServerlessServiceRolePolicy",
     "MediaPackageServiceRolePolicy",
     "AmazonGrafanaAthenaAccess",
