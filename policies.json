@@ -492,6 +492,7 @@
     "AdministratorAccess-Amplify",
     "AWSElasticDisasterRecoveryStagingAccountPolicy",
     "AWSApplicationDiscoveryAgentlessCollectorAccess",
+    "AWSSSMForSAPServiceLinkedRolePolicy",
     "AmazonRoute53RecoveryReadinessFullAccess",
     "AWSNetworkManagerFullAccess",
     "AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy",
