@@ -812,6 +812,7 @@
     "AmazonEventBridgeSchedulerReadOnlyAccess",
     "AWSApplicationMigrationMGHAccess",
     "AWSDeviceFarmTestGridServiceRolePolicy",
+    "AWSServiceCatalogSyncServiceRolePolicy",
     "AWSBackupServiceRolePolicyForS3Restore",
     "AmazonLookoutEquipmentFullAccess",
     "AWSPurchaseOrdersServiceRolePolicy",
