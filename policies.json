@@ -849,6 +849,7 @@
     "AWSResourceAccessManagerResourceShareParticipantAccess",
     "AmazonRedshiftQueryEditorV2ReadWriteSharing",
     "AWSBillingReadOnlyAccess",
+    "AmazonOpenSearchIngestionServiceRolePolicy",
     "AWSTrustedAdvisorPriorityFullAccess",
     "ServerMigrationServiceRoleForInstanceValidation",
     "AWSApplicationAutoscalingNeptuneClusterPolicy",
