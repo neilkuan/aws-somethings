@@ -1,5 +1,4 @@
 [
-    "AWSDirectConnectReadOnlyAccess",
     "AmazonGlacierReadOnlyAccess",
     "AWSMarketplaceFullAccess",
     "ClientVPNServiceRolePolicy",
