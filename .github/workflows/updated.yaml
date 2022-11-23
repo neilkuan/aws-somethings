@@ -18,7 +18,7 @@ jobs:
       conclusion: ${{ steps.build.outputs.conclusion }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1-node16
         with:
@@ -29,7 +29,7 @@ jobs:
         id: build 
         run: ./check && echo "conclusion=success" >> $GITHUB_OUTPUT || echo "conclusion=failure" >> $GITHUB_OUTPUT
       - name: Upload update.txt
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: update.txt
           path: update.txt
@@ -38,7 +38,7 @@ jobs:
           git add .
           git diff --patch --staged > .upgrade.tmp.patch
       - name: Upload patch
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: .upgrade.tmp.patch
           path: .upgrade.tmp.patch
@@ -52,14 +52,14 @@ jobs:
       checks: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Download update.txt
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: update.txt
           path: ${{ runner.temp }}
       - name: Download patch
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: .upgrade.tmp.patch
           path: ${{ runner.temp }}
