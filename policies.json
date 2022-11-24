@@ -563,6 +563,7 @@
     "AmazonHoneycodeServiceRolePolicy",
     "AWSBugBustPlayerAccess",
     "AmazonSageMakerEdgeDeviceFleetPolicy",
+    "AWSReachabilityAnalyzerServiceRolePolicy",
     "AWSIoTSiteWiseMonitorServiceRolePolicy",
     "AWSBillingConductorReadOnlyAccess",
     "AmazonHoneycodeReadOnlyAccess",
