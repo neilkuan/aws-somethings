@@ -820,6 +820,7 @@
     "AWSPurchaseOrdersServiceRolePolicy",
     "AmazonHoneycodeTeamAssociationReadOnlyAccess",
     "AmazonWorkSpacesServiceAccess",
+    "AmazonOpenSearchServerlessServiceRolePolicy",
     "AWSSecurityHubOrganizationsAccess",
     "AmazonElasticFileSystemsUtils",
     "AWSCostAndUsageReportAutomationPolicy",
