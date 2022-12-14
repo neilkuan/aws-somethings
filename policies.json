@@ -634,6 +634,7 @@
     "AWSMigrationHubStrategyServiceRolePolicy",
     "AWSApplicationMigrationVCenterClientPolicy",
     "AmazonRDSCustomServiceRolePolicy",
+    "AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy",
     "AmazonElasticContainerRegistryPublicFullAccess",
     "AmazonMCSReadOnlyAccess",
     "AmazonOpenSearchServiceFullAccess",
