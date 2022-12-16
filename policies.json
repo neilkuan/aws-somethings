@@ -769,6 +769,7 @@
     "EC2FleetTimeShiftableServiceRolePolicy",
     "AmazonEBSCSIDriverPolicy",
     "MigrationHubDMSAccessServiceRolePolicy",
+    "AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync",
     "AWSServiceCatalogEndUserReadOnlyAccess",
     "AWSIotRoboRunnerFullAccess",
     "ElementalActivationsFullAccess",
