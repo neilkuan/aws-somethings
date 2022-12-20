@@ -936,6 +936,7 @@
     "AWSSavingsPlansFullAccess",
     "AwsGlueSessionUserRestrictedServiceRole",
     "AWSServiceRoleForImageBuilder",
+    "AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy",
     "AWSElasticDisasterRecoveryRecoveryInstancePolicy",
     "AWSVendorInsightsVendorReadOnly",
     "AmazonOpenSearchServiceRolePolicy",
