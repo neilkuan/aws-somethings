@@ -845,6 +845,7 @@
     "MemoryDBServiceRolePolicy",
     "AWSLicenseManagerConsumptionPolicy",
     "AWSTransferConsoleFullAccess",
+    "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy",
     "AmazonEKSServiceRolePolicy",
     "AWSIoTWirelessLogging",
     "AWSRolesAnywhereServicePolicy",
