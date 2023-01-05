@@ -961,6 +961,7 @@
     "AWSPanoramaSageMakerRolePolicy",
     "AWSFaultInjectionSimulatorECSAccess",
     "AWSPanoramaApplianceServiceRolePolicy",
+    "AWSOutpostsAuthorizeServerPolicy",
     "AWSIoTWirelessGatewayCertManager",
     "AWSDirectConnectServiceRolePolicy",
     "AWSApplicationMigrationEC2Access",
