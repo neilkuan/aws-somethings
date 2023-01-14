@@ -533,6 +533,7 @@
     "AmazonDevOpsGuruFullAccess",
     "AWSResourceAccessManagerReadOnlyAccess",
     "AmazonEventBridgeFullAccess",
+    "AWSHealth_EventProcessorServiceRolePolicy",
     "AWSThinkboxAWSPortalAdminPolicy",
     "OAMReadOnlyAccess",
     "AWSElasticBeanstalkReadOnly",
