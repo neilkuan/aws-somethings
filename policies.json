@@ -1026,6 +1026,7 @@
     "AmazonRoute53RecoveryClusterReadOnlyAccess",
     "AmazonKendraReadOnlyAccess",
     "AmazonPrometheusFullAccess",
+    "Ec2InstanceConnectEndpoint",
     "AWS_ConfigRole",
     "AmazonOpenSearchServiceReadOnlyAccess",
     "AWSM2ServicePolicy",
