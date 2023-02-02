@@ -1015,6 +1015,7 @@
     "GroundTruthSyntheticConsoleFullAccess",
     "AmazonAppFlowFullAccess",
     "AWSElasticDisasterRecoveryReplicationServerPolicy",
+    "AmazonCognitoUnauthenticatedIdentities",
     "Ec2ImageBuilderCrossAccountDistributionAccess",
     "AWSThinkboxAWSPortalWorkerPolicy",
     "AmazonS3OutpostsReadOnlyAccess",
