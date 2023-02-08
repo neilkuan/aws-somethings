@@ -689,6 +689,7 @@
     "AWSPanoramaServiceRolePolicy",
     "AWSElasticDisasterRecoveryConversionServerPolicy",
     "AmazonEMRReadOnlyAccessPolicy_v2",
+    "AWSManagedServices_EventsServiceRolePolicy",
     "AWSBackupDataTransferAccess",
     "AmazonEventBridgeApiDestinationsServiceRolePolicy",
     "AwsGlueSessionUserRestrictedNotebookServiceRole",
