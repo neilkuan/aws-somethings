@@ -1000,6 +1000,7 @@
     "AmazonWorkMailMessageFlowFullAccess",
     "AWSServiceRoleForSMS",
     "AWSThinkboxDeadlineResourceTrackerAccessPolicy",
+    "AWSIotRoboRunnerServiceRolePolicy",
     "CloudWatch-CrossAccountAccess",
     "AWSLakeFormationDataAdmin",
     "AWSElasticBeanstalkRoleCore",
