@@ -500,6 +500,7 @@
     "AWSPrivateMarketplaceRequests",
     "CloudWatchApplicationInsightsReadOnlyAccess",
     "AdministratorAccess-AWSElasticBeanstalk",
+    "AmazonOmicsFullAccess",
     "AWSFaultInjectionSimulatorNetworkAccess",
     "AmazonSageMakerMechanicalTurkAccess",
     "AWSFaultInjectionSimulatorEKSAccess",
