@@ -766,6 +766,7 @@
     "ServerMigrationServiceConsoleFullAccess",
     "AWSAppSyncServiceRolePolicy",
     "AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy",
+    "AWSSupplyChainFederationAdminAccess",
     "AWSAppMeshFullAccess",
     "AWSIncidentManagerServiceRolePolicy",
     "AWSProtonFullAccess",
