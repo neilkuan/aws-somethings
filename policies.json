@@ -698,6 +698,7 @@
     "AWSPrivateCAUser",
     "AwsGlueSessionUserRestrictedNotebookServiceRole",
     "AppIntegrationsServiceLinkedRolePolicy",
+    "CustomerProfilesServiceLinkedRolePolicy",
     "AWSServiceRoleForCodeGuru-Profiler",
     "AmazonChimeVoiceConnectorServiceLinkedRolePolicy",
     "AmazonPrometheusQueryAccess",
