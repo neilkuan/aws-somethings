@@ -792,6 +792,7 @@
     "AmazonEKSForFargateServiceRolePolicy",
     "ElementalActivationsReadOnlyAccess",
     "MigrationHubSMSAccessServiceRolePolicy",
+    "AWSDataSyncDiscoveryServiceRolePolicy",
     "CloudFormationStackSetsOrgAdminServiceRolePolicy",
     "AWSIPAMServiceRolePolicy",
     "AmazonEventBridgeSchemasFullAccess",
