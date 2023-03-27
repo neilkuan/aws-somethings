@@ -941,6 +941,7 @@
     "CloudWatchApplicationInsightsFullAccess",
     "AWSServiceRoleForCodeWhispererPolicy",
     "AWSControlTowerServiceRolePolicy",
+    "AmazonDataZonePortalFullAccessPolicy",
     "AmazonSageMakerNotebooksServiceRolePolicy",
     "AWSResourceExplorerFullAccess",
     "AWSProtonCodeBuildProvisioningBasicAccess",
