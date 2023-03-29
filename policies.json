@@ -834,6 +834,7 @@
     "AWSIoTSiteWiseConsoleFullAccess",
     "AmazonElasticFileSystemClientFullAccess",
     "AWSIoTDeviceDefenderUpdateDeviceCertMitigationAction",
+    "AmazonDataZonePreviewConsoleFullAccess",
     "AWSThinkboxAssetServerPolicy",
     "AWSForWordPressPluginPolicy",
     "KafkaConnectServiceRolePolicy",
