@@ -789,6 +789,7 @@
     "EC2FleetTimeShiftableServiceRolePolicy",
     "AmazonEBSCSIDriverPolicy",
     "MigrationHubDMSAccessServiceRolePolicy",
+    "AWSProtonServiceGitSyncServiceRolePolicy",
     "AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync",
     "AWSServiceCatalogEndUserReadOnlyAccess",
     "AWSIotRoboRunnerFullAccess",
