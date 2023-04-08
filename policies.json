@@ -364,7 +364,6 @@
     "AmazonTranscribeReadOnlyAccess",
     "AmazonESFullAccess",
     "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy",
-    "AmazonSumerianFullAccess",
     "AWSWAFFullAccess",
     "ElasticLoadBalancingReadOnly",
     "AWSArtifactAccountSync",
