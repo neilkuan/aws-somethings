@@ -601,6 +601,7 @@
     "AWSMarketplaceSellerProductsFullAccess",
     "AWSMarketplaceLicenseManagementServiceRolePolicy",
     "AWSElasticDisasterRecoveryEc2InstancePolicy",
+    "AWSServiceCatalogOrgsDataSyncServiceRolePolicy",
     "AWSProtonReadOnlyAccess",
     "AmazonLexV2BotPolicy",
     "AmazonGuardDutyMalwareProtectionServiceRolePolicy",
