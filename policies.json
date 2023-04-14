@@ -493,6 +493,7 @@
     "AmazonEventBridgePipesReadOnlyAccess",
     "AWSSSMForSAPServiceLinkedRolePolicy",
     "AmazonRoute53RecoveryReadinessFullAccess",
+    "AmazonSageMakerModelRegistryFullAccess",
     "AWSNetworkManagerFullAccess",
     "AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy",
     "AWSMarketplaceAmiIngestion",
