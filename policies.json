@@ -815,6 +815,7 @@
     "AmazonDevOpsGuruReadOnlyAccess",
     "AmazonEventBridgeSchemasReadOnlyAccess",
     "AmazonFISServiceRolePolicy",
+    "AWSUserNotificationsServiceLinkedRolePolicy",
     "AWSSupportAppReadOnlyAccess",
     "AWSTrustedAdvisorPriorityReadOnlyAccess",
     "AmazonDocDB-ElasticServiceRolePolicy",
