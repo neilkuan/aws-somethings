@@ -843,6 +843,7 @@
     "AWSMarketplaceSellerProductsReadOnly",
     "AmazonMCSFullAccess",
     "AWSIoTSiteWiseConsoleFullAccess",
+    "ROSAControlPlaneOperatorPolicy",
     "AmazonElasticFileSystemClientFullAccess",
     "AWSIoTDeviceDefenderUpdateDeviceCertMitigationAction",
     "AmazonDataZonePreviewConsoleFullAccess",
