@@ -1004,6 +1004,7 @@
     "AmazonSageMakerCanvasForecastAccess",
     "AWSServiceRoleForMonitronPolicy",
     "AWSPanoramaSageMakerRolePolicy",
+    "AmazonVPCReachabilityAnalyzerPathComponentReadPolicy",
     "AWSFaultInjectionSimulatorECSAccess",
     "AWSPanoramaApplianceServiceRolePolicy",
     "AWSOutpostsAuthorizeServerPolicy",
