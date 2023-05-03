@@ -541,6 +541,7 @@
     "OAMReadOnlyAccess",
     "AWSElasticBeanstalkReadOnly",
     "AwsGlueSessionUserRestrictedNotebookPolicy",
+    "KeyspacesReplicationServiceRolePolicy",
     "EC2InstanceProfileForImageBuilderECRContainerBuilds",
     "AWSCodeDeployRoleForLambdaLimited",
     "AWSAuditManagerServiceRolePolicy",
