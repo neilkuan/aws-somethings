@@ -791,6 +791,7 @@
     "AWSElasticDisasterRecoveryAgentPolicy",
     "AWSCloud9SSMInstanceProfile",
     "ElementalActivationsDownloadSoftwareAccess",
+    "AWSFinSpaceServiceRolePolicy",
     "AWSPanoramaGreengrassGroupRolePolicy",
     "AmazonDetectiveFullAccess",
     "AWSSSMOpsInsightsServiceRolePolicy",
