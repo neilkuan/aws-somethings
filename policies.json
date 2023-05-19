@@ -485,6 +485,7 @@
     "Route53ResolverServiceRolePolicy",
     "WAFV2LoggingServiceRolePolicy",
     "AWSBudgetsActionsWithAWSResourceControlAccess",
+    "AWSDMSServerlessServiceRolePolicy",
     "AWSManagedServicesDeploymentToolkitPolicy",
     "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",
     "AdministratorAccess-Amplify",
