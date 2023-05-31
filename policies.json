@@ -582,6 +582,7 @@
     "AmazonHoneycodeReadOnlyAccess",
     "AWSCloudFormationFullAccess",
     "GroundTruthSyntheticConsoleReadOnlyAccess",
+    "AmazonSecurityLakeAdministrator",
     "AWSPanoramaApplianceRolePolicy",
     "SecurityLakeServiceLinkedRole",
     "AWSProtonCodeBuildProvisioningServiceRolePolicy",
