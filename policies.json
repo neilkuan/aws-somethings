@@ -731,6 +731,7 @@
     "AmazonGrafanaAthenaAccess",
     "IAMAccessAnalyzerReadOnlyAccess",
     "AmazonCloudWatchRUMServiceRolePolicy",
+    "ROSAInstallerPolicy",
     "AmazonEventBridgeSchemasServiceRolePolicy",
     "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction",
     "AmazonQLDBConsoleFullAccess",
