@@ -1024,6 +1024,7 @@
     "AWSPrivateCAAuditor",
     "AWSDirectConnectServiceRolePolicy",
     "AWSDMSFleetAdvisorServiceRolePolicy",
+    "AWSElasticDisasterRecoveryNetworkReplicationPolicy",
     "AWSApplicationMigrationEC2Access",
     "AmazonCloudWatchEvidentlyFullAccess",
     "AWSSupportAppFullAccess",
