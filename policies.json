@@ -937,6 +937,7 @@
     "AWSBugBustServiceRolePolicy",
     "AWSAppRunnerServicePolicyForECRAccess",
     "AWSFaultInjectionSimulatorSSMAccess",
+    "AmazonVPCReachabilityAnalyzerFullAccessPolicy",
     "AWSNetworkManagerReadOnlyAccess",
     "AmazonDevOpsGuruOrganizationsAccess",
     "AmazonRDSPerformanceInsightsReadOnly",
