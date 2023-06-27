@@ -588,6 +588,7 @@
     "AWSPanoramaApplianceRolePolicy",
     "SecurityLakeServiceLinkedRole",
     "AWSProtonCodeBuildProvisioningServiceRolePolicy",
+    "AWSAppFabricServiceRolePolicy",
     "AmazonLookoutMetricsFullAccess",
     "AWSBillingConductorFullAccess",
     "AWSApplicationMigrationAgentPolicy",
