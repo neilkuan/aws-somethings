@@ -1104,5 +1104,6 @@
     "AWSAppFabricServiceRolePolicy",
     "AWSResilienceHubAsssessmentExecutionPolicy",
     "AWSAppFabricFullAccess",
-    "AWSAppFabricReadOnlyAccess"
+    "AWSAppFabricReadOnlyAccess",
+    "AmazonCognitoUnAuthedIdentitiesSessionPolicy"
 ]
