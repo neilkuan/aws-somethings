@@ -1105,5 +1105,10 @@
     "AWSResilienceHubAsssessmentExecutionPolicy",
     "AWSAppFabricFullAccess",
     "AWSAppFabricReadOnlyAccess",
-    "AmazonCognitoUnAuthedIdentitiesSessionPolicy"
+    "AmazonCognitoUnAuthedIdentitiesSessionPolicy",
+    "AmazonEFSCSIDriverPolicy",
+    "AWSElementalMediaPackageV2FullAccess",
+    "AWSElementalMediaPackageV2ReadOnly",
+    "AWSHealthImagingFullAccess",
+    "AWSHealthImagingReadOnlyAccess"
 ]
