@@ -1110,5 +1110,9 @@
     "AWSElementalMediaPackageV2FullAccess",
     "AWSElementalMediaPackageV2ReadOnly",
     "AWSHealthImagingFullAccess",
-    "AWSHealthImagingReadOnlyAccess"
+    "AWSHealthImagingReadOnlyAccess",
+    "CloudWatchFullAccessV2",
+    "AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy",
+    "AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy",
+    "AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy"
 ]
