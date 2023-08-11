@@ -1114,5 +1114,6 @@
     "CloudWatchFullAccessV2",
     "AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy",
     "AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy",
-    "AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy"
+    "AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy",
+    "AWSMigrationHubRefactorSpaces-SSMAutomationPolicy"
 ]
