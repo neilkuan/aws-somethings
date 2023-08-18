@@ -1116,5 +1116,7 @@
     "AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy",
     "AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy",
     "AWSMigrationHubRefactorSpaces-SSMAutomationPolicy",
-    "AmazonRDSPerformanceInsightsFullAccess"
+    "AmazonRDSPerformanceInsightsFullAccess",
+    "AWSEntityResolutionConsoleFullAccess",
+    "AWSEntityResolutionConsoleReadOnlyAccess"
 ]
