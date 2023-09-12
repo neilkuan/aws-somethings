@@ -150,8 +150,6 @@
     "AmazonEC2ContainerRegistryReadOnly",
     "AmazonEC2ContainerRegistryPowerUser",
     "AmazonEC2ContainerRegistryFullAccess",
-    "AWSMobileHub_ReadOnly",
-    "AWSMobileHub_FullAccess",
     "AmazonDMSCloudWatchLogsRole",
     "CloudWatchEventsReadOnlyAccess",
     "CloudWatchEventsBuiltInTargetExecutionAccess",
@@ -1122,5 +1120,6 @@
     "AWSArtifactServiceRolePolicy",
     "AWSApplicationMigrationServiceEc2InstancePolicy",
     "AmazonLaunchWizardFullAccessV2",
-    "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy"
+    "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy",
+    "AmazonDataZoneEnvironmentRolePermissionsBoundary"
 ]
