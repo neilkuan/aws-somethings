@@ -1121,5 +1121,6 @@
     "AWSApplicationMigrationServiceEc2InstancePolicy",
     "AmazonLaunchWizardFullAccessV2",
     "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy",
-    "AmazonDataZoneEnvironmentRolePermissionsBoundary"
+    "AmazonDataZoneEnvironmentRolePermissionsBoundary",
+    "AmazonKeyspacesReadOnlyAccess_v2"
 ]
