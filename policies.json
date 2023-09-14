@@ -1122,5 +1122,6 @@
     "AmazonLaunchWizardFullAccessV2",
     "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy",
     "AmazonDataZoneEnvironmentRolePermissionsBoundary",
-    "AmazonKeyspacesReadOnlyAccess_v2"
+    "AmazonKeyspacesReadOnlyAccess_v2",
+    "AWSElasticDisasterRecoveryLaunchActionsPolicy"
 ]
