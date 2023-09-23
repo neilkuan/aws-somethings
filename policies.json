@@ -1123,5 +1123,10 @@
     "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy",
     "AmazonDataZoneEnvironmentRolePermissionsBoundary",
     "AmazonKeyspacesReadOnlyAccess_v2",
-    "AWSElasticDisasterRecoveryLaunchActionsPolicy"
+    "AWSElasticDisasterRecoveryLaunchActionsPolicy",
+    "AmazonDataZoneFullAccess",
+    "AmazonDataZoneRedshiftManageAccessRolePolicy",
+    "AmazonDataZoneRedshiftGlueProvisioningPolicy",
+    "AmazonDataZoneGlueManageAccessRolePolicy",
+    "AmazonDataZoneFullUserAccess"
 ]
