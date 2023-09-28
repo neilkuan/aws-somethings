@@ -1128,5 +1128,6 @@
     "AmazonDataZoneRedshiftManageAccessRolePolicy",
     "AmazonDataZoneRedshiftGlueProvisioningPolicy",
     "AmazonDataZoneGlueManageAccessRolePolicy",
-    "AmazonDataZoneFullUserAccess"
+    "AmazonDataZoneFullUserAccess",
+    "AmazonDataZoneDomainExecutionRolePolicy"
 ]
