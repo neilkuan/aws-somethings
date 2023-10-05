@@ -1054,8 +1054,6 @@
     "AmazonSageMakerCanvasAIServicesAccess",
     "AWSServiceRoleForCodeWhispererPolicy",
     "AmazonGrafanaCloudWatchAccess",
-    "AmazonDataZonePortalFullAccessPolicy",
-    "AmazonDataZonePreviewConsoleFullAccess",
     "AWSGroundStationAgentInstancePolicy",
     "VPCLatticeServicesInvokeAccess",
     "VPCLatticeReadOnlyAccess",
