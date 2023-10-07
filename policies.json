@@ -1128,5 +1128,7 @@
     "AmazonDataZoneGlueManageAccessRolePolicy",
     "AmazonDataZoneFullUserAccess",
     "AmazonDataZoneDomainExecutionRolePolicy",
-    "AWSS3OnOutpostsServiceRolePolicy"
+    "AWSS3OnOutpostsServiceRolePolicy",
+    "AmazonSageMakerCanvasDirectDeployAccess",
+    "AmplifyBackendDeployFullAccess"
 ]
