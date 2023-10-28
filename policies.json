@@ -1130,5 +1130,7 @@
     "AmazonDataZoneDomainExecutionRolePolicy",
     "AWSS3OnOutpostsServiceRolePolicy",
     "AmazonSageMakerCanvasDirectDeployAccess",
-    "AmplifyBackendDeployFullAccess"
+    "AmplifyBackendDeployFullAccess",
+    "AmazonConnectSynchronizationServiceRolePolicy",
+    "AmazonSageMakerCanvasDataPrepFullAccess"
 ]
