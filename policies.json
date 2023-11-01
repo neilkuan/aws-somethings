@@ -1132,5 +1132,6 @@
     "AmazonSageMakerCanvasDirectDeployAccess",
     "AmplifyBackendDeployFullAccess",
     "AmazonConnectSynchronizationServiceRolePolicy",
-    "AmazonSageMakerCanvasDataPrepFullAccess"
+    "AmazonSageMakerCanvasDataPrepFullAccess",
+    "AWSDataLifecycleManagerSSMFullAccess"
 ]
