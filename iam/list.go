@@ -29,7 +29,7 @@ func ListIAMPolicy(cfg aws.Config) []*string {
 		resp, err = iamsvc.ListPolicies(context.TODO(), params)
 		checkError(err)
 		for _, policy := range resp.Policies {
-			plist = append(plist, policy.PolicyName)
+			plist = append(plist, policy.Arn)
 		}
 		params.Marker = resp.Marker
 		truncatedListing = resp.IsTruncated

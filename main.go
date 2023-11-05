@@ -4,7 +4,6 @@ import (
 	"aws-somethings/iam"
 	"context"
 	"encoding/json"
-	"io/ioutil"
 	"log"
 	"os"
 
@@ -27,7 +26,7 @@ func GetIamConfigure() aws.Config {
 func main() {
 	defConfg := GetIamConfigure()
 	newPolicyList := iam.ListIAMPolicy(defConfg)
-	oldPolicy, err := ioutil.ReadFile("policies.json")
+	oldPolicy, err := os.ReadFile("policies.json")
 	checkError(err)
 
 	var oldPolicyList []*string
@@ -42,7 +41,7 @@ func main() {
 
 	if !(string(oldPolicy) == string(enCodeList)) {
 		log.Println("Start to Update policies.json...")
-		err = ioutil.WriteFile("policies.json", enCodeList, 0644)
+		err = os.WriteFile("policies.json", enCodeList, 0644)
 		checkError(err)
 		log.Println("Update policies.json successfully!")
 
