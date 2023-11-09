@@ -1133,5 +1133,6 @@
     "arn:aws:iam::aws:policy/service-role/AmplifyBackendDeployFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonConnectSynchronizationServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasDataPrepFullAccess",
-    "arn:aws:iam::aws:policy/service-role/AWSDataLifecycleManagerSSMFullAccess"
+    "arn:aws:iam::aws:policy/service-role/AWSDataLifecycleManagerSSMFullAccess",
+    "arn:aws:iam::aws:policy/AWSIAMIdentityCenterAllowListForIdentityContext"
 ]
