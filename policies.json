@@ -1137,5 +1137,6 @@
     "arn:aws:iam::aws:policy/AWSIAMIdentityCenterAllowListForIdentityContext",
     "arn:aws:iam::aws:policy/aws-service-role/CloudWatchApplicationSignalsServiceRolePolicy",
     "arn:aws:iam::aws:policy/PartnerCentralAccountManagementUserRoleAssociation",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRolePolicyForBackupRestoreTesting"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRolePolicyForBackupRestoreTesting",
+    "arn:aws:iam::aws:policy/AWSIncidentManagerIncidentAccessServiceRolePolicy"
 ]
