@@ -1139,5 +1139,6 @@
     "arn:aws:iam::aws:policy/PartnerCentralAccountManagementUserRoleAssociation",
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRolePolicyForBackupRestoreTesting",
     "arn:aws:iam::aws:policy/AWSIncidentManagerIncidentAccessServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSIoTTwinMakerServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSIoTTwinMakerServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSResourceExplorerOrganizationsAccess"
 ]
