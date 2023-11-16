@@ -1140,5 +1140,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRolePolicyForBackupRestoreTesting",
     "arn:aws:iam::aws:policy/AWSIncidentManagerIncidentAccessServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSIoTTwinMakerServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSResourceExplorerOrganizationsAccess"
+    "arn:aws:iam::aws:policy/AWSResourceExplorerOrganizationsAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSrePostPrivateCloudWatchAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceDeploymentServiceRolePolicy"
 ]
