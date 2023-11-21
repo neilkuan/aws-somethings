@@ -1144,5 +1144,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSrePostPrivateCloudWatchAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceDeploymentServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSGitSyncServiceRolePolicy",
-    "arn:aws:iam::aws:policy/service-role/EC2ImageBuilderLifecycleExecutionPolicy"
+    "arn:aws:iam::aws:policy/service-role/EC2ImageBuilderLifecycleExecutionPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonInspector2AgentlessServiceRolePolicy"
 ]
