@@ -1148,5 +1148,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AmazonInspector2AgentlessServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/CostOptimizationHubServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonPrometheusScraperServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSRepostSpaceSupportOperationsPolicy"
+    "arn:aws:iam::aws:policy/AWSRepostSpaceSupportOperationsPolicy",
+    "arn:aws:iam::aws:policy/AWSElasticDisasterRecoveryConsoleFullAccess_v2"
 ]
