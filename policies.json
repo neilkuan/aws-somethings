@@ -1149,5 +1149,9 @@
     "arn:aws:iam::aws:policy/aws-service-role/CostOptimizationHubServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonPrometheusScraperServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSRepostSpaceSupportOperationsPolicy",
-    "arn:aws:iam::aws:policy/AWSElasticDisasterRecoveryConsoleFullAccess_v2"
+    "arn:aws:iam::aws:policy/AWSElasticDisasterRecoveryConsoleFullAccess_v2",
+    "arn:aws:iam::aws:policy/AmazonOneEnterpriseFullAccess",
+    "arn:aws:iam::aws:policy/AmazonOneEnterpriseReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AmazonOneEnterpriseInstallerAccess",
+    "arn:aws:iam::aws:policy/AmazonQFullAccess"
 ]
