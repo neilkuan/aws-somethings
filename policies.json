@@ -1153,5 +1153,10 @@
     "arn:aws:iam::aws:policy/AmazonOneEnterpriseFullAccess",
     "arn:aws:iam::aws:policy/AmazonOneEnterpriseReadOnlyAccess",
     "arn:aws:iam::aws:policy/AmazonOneEnterpriseInstallerAccess",
-    "arn:aws:iam::aws:policy/AmazonQFullAccess"
+    "arn:aws:iam::aws:policy/AmazonQFullAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForNeptuneGraphPolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerClusterInstanceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSZonalAutoshiftPracticeRunSLRPolicy",
+    "arn:aws:iam::aws:policy/AWSCleanRoomsMLReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AWSCleanRoomsMLFullAccess"
 ]
