@@ -1158,5 +1158,6 @@
     "arn:aws:iam::aws:policy/AmazonSageMakerClusterInstanceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSZonalAutoshiftPracticeRunSLRPolicy",
     "arn:aws:iam::aws:policy/AWSCleanRoomsMLReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AWSCleanRoomsMLFullAccess"
+    "arn:aws:iam::aws:policy/AWSCleanRoomsMLFullAccess",
+    "arn:aws:iam::aws:policy/NeptuneGraphReadOnlyAccess"
 ]
