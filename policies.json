@@ -1047,8 +1047,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSDMSFleetAdvisorServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/CustomerProfilesServiceLinkedRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSDataSyncDiscoveryServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonDataZoneProjectRolePermissionsBoundary",
-    "arn:aws:iam::aws:policy/AmazonDataZoneProjectDeploymentPermissionsBoundary",
     "arn:aws:iam::aws:policy/MediaConnectGatewayInstanceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSManagedServices_ContactsServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasAIServicesAccess",
