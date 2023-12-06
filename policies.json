@@ -1157,5 +1157,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSZonalAutoshiftPracticeRunSLRPolicy",
     "arn:aws:iam::aws:policy/AWSCleanRoomsMLReadOnlyAccess",
     "arn:aws:iam::aws:policy/AWSCleanRoomsMLFullAccess",
-    "arn:aws:iam::aws:policy/NeptuneGraphReadOnlyAccess"
+    "arn:aws:iam::aws:policy/NeptuneGraphReadOnlyAccess",
+    "arn:aws:iam::aws:policy/IVSReadOnlyAccess",
+    "arn:aws:iam::aws:policy/service-role/AWSMSKReplicatorExecutionRole"
 ]
