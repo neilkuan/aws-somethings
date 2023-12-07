@@ -1159,5 +1159,7 @@
     "arn:aws:iam::aws:policy/AWSCleanRoomsMLFullAccess",
     "arn:aws:iam::aws:policy/NeptuneGraphReadOnlyAccess",
     "arn:aws:iam::aws:policy/IVSReadOnlyAccess",
-    "arn:aws:iam::aws:policy/service-role/AWSMSKReplicatorExecutionRole"
+    "arn:aws:iam::aws:policy/service-role/AWSMSKReplicatorExecutionRole",
+    "arn:aws:iam::aws:policy/AmazonBedrockFullAccess",
+    "arn:aws:iam::aws:policy/AmazonBedrockReadOnly"
 ]
