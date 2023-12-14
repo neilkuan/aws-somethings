@@ -1161,5 +1161,7 @@
     "arn:aws:iam::aws:policy/IVSReadOnlyAccess",
     "arn:aws:iam::aws:policy/service-role/AWSMSKReplicatorExecutionRole",
     "arn:aws:iam::aws:policy/AmazonBedrockFullAccess",
-    "arn:aws:iam::aws:policy/AmazonBedrockReadOnly"
+    "arn:aws:iam::aws:policy/AmazonBedrockReadOnly",
+    "arn:aws:iam::aws:policy/CostOptimizationHubReadOnlyAccess",
+    "arn:aws:iam::aws:policy/IVSFullAccess"
 ]
