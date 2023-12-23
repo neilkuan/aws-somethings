@@ -1165,5 +1165,6 @@
     "arn:aws:iam::aws:policy/CostOptimizationHubReadOnlyAccess",
     "arn:aws:iam::aws:policy/IVSFullAccess",
     "arn:aws:iam::aws:policy/CostOptimizationHubAdminAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/CloudWatchNetworkMonitorServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/CloudWatchNetworkMonitorServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonOpenSearchDashboardsServiceRolePolicy"
 ]
