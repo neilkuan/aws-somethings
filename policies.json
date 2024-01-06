@@ -1167,5 +1167,6 @@
     "arn:aws:iam::aws:policy/CostOptimizationHubAdminAccess",
     "arn:aws:iam::aws:policy/aws-service-role/CloudWatchNetworkMonitorServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonOpenSearchDashboardsServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSArtifactReportsReadOnlyAccess"
+    "arn:aws:iam::aws:policy/AWSArtifactReportsReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AWSGrafanaWorkspacePermissionManagementV2"
 ]
