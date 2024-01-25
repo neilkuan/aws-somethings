@@ -1171,5 +1171,6 @@
     "arn:aws:iam::aws:policy/AWSGrafanaWorkspacePermissionManagementV2",
     "arn:aws:iam::aws:policy/service-role/AmazonECSInfrastructureRolePolicyForVolumes",
     "arn:aws:iam::aws:policy/service-role/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity",
-    "arn:aws:iam::aws:policy/service-role/AmazonSecurityLakeMetastoreManager"
+    "arn:aws:iam::aws:policy/service-role/AmazonSecurityLakeMetastoreManager",
+    "arn:aws:iam::aws:policy/AmazonInspector2ManagedCisPolicy"
 ]
