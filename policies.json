@@ -661,7 +661,6 @@
     "arn:aws:iam::aws:policy/AWSCodePipeline_FullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonBraketServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSLakeFormationCrossAccountManager",
-    "arn:aws:iam::aws:policy/AmazonLaunchWizard_Fullaccess",
     "arn:aws:iam::aws:policy/AmazonBraketFullAccess",
     "arn:aws:iam::aws:policy/service-role/AWSLambdaMSKExecutionRole",
     "arn:aws:iam::aws:policy/AWSCompromisedKeyQuarantine",
