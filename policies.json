@@ -1173,5 +1173,6 @@
     "arn:aws:iam::aws:policy/service-role/AmazonSecurityLakeMetastoreManager",
     "arn:aws:iam::aws:policy/AmazonInspector2ManagedCisPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonLexReplicationPolicy",
-    "arn:aws:iam::aws:policy/AmazonSageMakerCanvasBedrockAccess"
+    "arn:aws:iam::aws:policy/AmazonSageMakerCanvasBedrockAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForPrivateMarketplaceAdminPolicy"
 ]
