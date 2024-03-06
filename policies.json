@@ -1175,5 +1175,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AmazonLexReplicationPolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasBedrockAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForPrivateMarketplaceAdminPolicy",
-    "arn:aws:iam::aws:policy/AmazonRDSCustomInstanceProfileRolePolicy"
+    "arn:aws:iam::aws:policy/AmazonRDSCustomInstanceProfileRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceResaleAuthorizationServiceRolePolicy"
 ]
