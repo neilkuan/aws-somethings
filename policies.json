@@ -1176,5 +1176,7 @@
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasBedrockAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForPrivateMarketplaceAdminPolicy",
     "arn:aws:iam::aws:policy/AmazonRDSCustomInstanceProfileRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceResaleAuthorizationServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceResaleAuthorizationServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonTimestreamInfluxDBServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonTimestreamInfluxDBFullAccess"
 ]
