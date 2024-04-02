@@ -1181,5 +1181,11 @@
     "arn:aws:iam::aws:policy/AmazonTimestreamInfluxDBFullAccess",
     "arn:aws:iam::aws:policy/AWSEC2VssSnapshotPolicy",
     "arn:aws:iam::aws:policy/AWSQuickSightAssetBundleExportPolicy",
-    "arn:aws:iam::aws:policy/AWSQuickSightAssetBundleImportPolicy"
+    "arn:aws:iam::aws:policy/AWSQuickSightAssetBundleImportPolicy",
+    "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessFarms",
+    "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessFleets",
+    "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessJobs",
+    "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessQueues",
+    "arn:aws:iam::aws:policy/AWSDeadlineCloud-FleetWorker",
+    "arn:aws:iam::aws:policy/AWSDeadlineCloud-WorkerHost"
 ]
