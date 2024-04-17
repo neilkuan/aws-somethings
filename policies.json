@@ -1184,5 +1184,6 @@
     "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessJobs",
     "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessQueues",
     "arn:aws:iam::aws:policy/AWSDeadlineCloud-FleetWorker",
-    "arn:aws:iam::aws:policy/AWSDeadlineCloud-WorkerHost"
+    "arn:aws:iam::aws:policy/AWSDeadlineCloud-WorkerHost",
+    "arn:aws:iam::aws:policy/aws-service-role/SplitCostAllocationDataServiceRolePolicy"
 ]
