@@ -1185,5 +1185,8 @@
     "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessQueues",
     "arn:aws:iam::aws:policy/AWSDeadlineCloud-FleetWorker",
     "arn:aws:iam::aws:policy/AWSDeadlineCloud-WorkerHost",
-    "arn:aws:iam::aws:policy/aws-service-role/SplitCostAllocationDataServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/SplitCostAllocationDataServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary",
+    "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerProvisioningRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerManageAccessRolePolicy"
 ]
