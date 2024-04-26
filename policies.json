@@ -1188,5 +1188,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/SplitCostAllocationDataServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary",
     "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerProvisioningRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerManageAccessRolePolicy"
+    "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerManageAccessRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAmazonQDeveloper",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForUserSubscriptions"
 ]
