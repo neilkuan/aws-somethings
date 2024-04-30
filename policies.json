@@ -1190,5 +1190,6 @@
     "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerProvisioningRolePolicy",
     "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerManageAccessRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAmazonQDeveloper",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForUserSubscriptions"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForUserSubscriptions",
+    "arn:aws:iam::aws:policy/aws-service-role/QBusinessServiceRolePolicy"
 ]
