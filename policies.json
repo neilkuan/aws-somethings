@@ -1193,5 +1193,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForUserSubscriptions",
     "arn:aws:iam::aws:policy/aws-service-role/QBusinessServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonRoute53ProfilesReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AmazonRoute53ProfilesFullAccess"
+    "arn:aws:iam::aws:policy/AmazonRoute53ProfilesFullAccess",
+    "arn:aws:iam::aws:policy/AmazonOpenSearchDirectQueryGlueCreateAccess"
 ]
