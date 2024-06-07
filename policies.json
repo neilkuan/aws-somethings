@@ -1196,5 +1196,7 @@
     "arn:aws:iam::aws:policy/AmazonRoute53ProfilesFullAccess",
     "arn:aws:iam::aws:policy/AmazonOpenSearchDirectQueryGlueCreateAccess",
     "arn:aws:iam::aws:policy/EC2FastLaunchFullAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonSESServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonSESServiceRolePolicy",
+    "arn:aws:iam::aws:policy/CloudWatchApplicationSignalsReadOnlyAccess",
+    "arn:aws:iam::aws:policy/CloudWatchApplicationSignalsFullAccess"
 ]
