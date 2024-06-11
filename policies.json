@@ -1198,5 +1198,7 @@
     "arn:aws:iam::aws:policy/EC2FastLaunchFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonSESServiceRolePolicy",
     "arn:aws:iam::aws:policy/CloudWatchApplicationSignalsReadOnlyAccess",
-    "arn:aws:iam::aws:policy/CloudWatchApplicationSignalsFullAccess"
+    "arn:aws:iam::aws:policy/CloudWatchApplicationSignalsFullAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBCMDataExportsServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/OpensearchIngestionSelfManagedVpcePolicy"
 ]
