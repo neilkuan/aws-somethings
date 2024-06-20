@@ -1201,5 +1201,6 @@
     "arn:aws:iam::aws:policy/CloudWatchApplicationSignalsFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSBCMDataExportsServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/OpensearchIngestionSelfManagedVpcePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoscalingWorkSpacesPoolPolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoscalingWorkSpacesPoolPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/ECRTemplateServiceRolePolicy"
 ]
