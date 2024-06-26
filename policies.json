@@ -1203,5 +1203,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/OpensearchIngestionSelfManagedVpcePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoscalingWorkSpacesPoolPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/ECRTemplateServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonWorkSpacesSecureBrowserReadOnly"
+    "arn:aws:iam::aws:policy/AmazonWorkSpacesSecureBrowserReadOnly",
+    "arn:aws:iam::aws:policy/aws-service-role/SSMQuickSetupRolePolicy"
 ]
