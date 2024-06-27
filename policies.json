@@ -1204,5 +1204,16 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoscalingWorkSpacesPoolPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/ECRTemplateServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonWorkSpacesSecureBrowserReadOnly",
-    "arn:aws:iam::aws:policy/aws-service-role/SSMQuickSetupRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/SSMQuickSetupRolePolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupPatchPolicyBaselineAccess",
+    "arn:aws:iam::aws:policy/AWSSystemsManagerEnableConfigRecordingExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSSystemsManagerEnableExplorerExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupDevOpsGuruPermissionsBoundary",
+    "arn:aws:iam::aws:policy/AWSQuickSetupPatchPolicyPermissionsBoundary",
+    "arn:aws:iam::aws:policy/AWSQuickSetupSSMHostMgmtPermissionsBoundary",
+    "arn:aws:iam::aws:policy/AWSQuickSetupDistributorPermissionsBoundary",
+    "arn:aws:iam::aws:policy/AWSQuickSetupCFGCPacksPermissionsBoundary",
+    "arn:aws:iam::aws:policy/AWSQuickSetupSchedulerPermissionsBoundary",
+    "arn:aws:iam::aws:policy/AWSQuickSetupDeploymentRolePolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupPatchPolicyDeploymentRolePolicy"
 ]
