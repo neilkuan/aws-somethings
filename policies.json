@@ -1217,5 +1217,6 @@
     "arn:aws:iam::aws:policy/AWSQuickSetupDeploymentRolePolicy",
     "arn:aws:iam::aws:policy/AWSQuickSetupPatchPolicyDeploymentRolePolicy",
     "arn:aws:iam::aws:policy/AmazonWorkSpacesPoolServiceAccess",
-    "arn:aws:iam::aws:policy/AmazonQDeveloperAccess"
+    "arn:aws:iam::aws:policy/AmazonQDeveloperAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AppStudioServiceRolePolicy"
 ]
