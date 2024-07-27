@@ -1219,5 +1219,6 @@
     "arn:aws:iam::aws:policy/AmazonWorkSpacesPoolServiceAccess",
     "arn:aws:iam::aws:policy/AmazonQDeveloperAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AppStudioServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientReadOnlyAccess"
+    "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy"
 ]
