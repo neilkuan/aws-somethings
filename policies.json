@@ -1221,5 +1221,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AppStudioServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientReadOnlyAccess",
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonBedrockStudioPermissionsBoundary"
+    "arn:aws:iam::aws:policy/AmazonBedrockStudioPermissionsBoundary",
+    "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientFullAccess"
 ]
