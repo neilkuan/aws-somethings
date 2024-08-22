@@ -1222,5 +1222,6 @@
     "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientReadOnlyAccess",
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy",
     "arn:aws:iam::aws:policy/AmazonBedrockStudioPermissionsBoundary",
-    "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientFullAccess"
+    "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientFullAccess",
+    "arn:aws:iam::aws:policy/AWSCompromisedKeyQuarantineV3"
 ]
