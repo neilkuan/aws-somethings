@@ -18,7 +18,7 @@ jobs:
       conclusion: ${{ steps.build.outputs.conclusion }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4.0.1
         with:
@@ -32,7 +32,8 @@ jobs:
         uses: actions/upload-artifact@v4.4.0
         with:
           name: update.txt
-          path: update.txt
+          path: .
+          overwrite: true
       - name: Create Patch
         run: |-
           git add .
@@ -41,7 +42,7 @@ jobs:
         uses: actions/upload-artifact@v4.4.0
         with:
           name: upgrade.tmp.patch
-          path: upgrade.tmp.patch
+          path: ${{ runner.temp }}
   pr:
     name: Create Pull Request
     needs: update
@@ -52,7 +53,7 @@ jobs:
       checks: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Download update.txt
         uses: actions/download-artifact@v3
         with:
