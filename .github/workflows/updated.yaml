@@ -29,19 +29,19 @@ jobs:
         id: build 
         run: ./check && echo "conclusion=success" >> $GITHUB_OUTPUT || echo "conclusion=failure" >> $GITHUB_OUTPUT
       - name: Upload update.txt
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.4.0
         with:
           name: update.txt
           path: update.txt
       - name: Create Patch
         run: |-
           git add .
-          git diff --patch --staged > .upgrade.tmp.patch
+          git diff --patch --staged > upgrade.tmp.patch
       - name: Upload patch
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.4.0
         with:
-          name: .upgrade.tmp.patch
-          path: .upgrade.tmp.patch
+          name: upgrade.tmp.patch
+          path: upgrade.tmp.patch
   pr:
     name: Create Pull Request
     needs: update
@@ -61,7 +61,7 @@ jobs:
       - name: Download patch
         uses: actions/download-artifact@v3
         with:
-          name: .upgrade.tmp.patch
+          name: upgrade.tmp.patch
           path: ${{ runner.temp }}
       - name: Apply patch
         run: |-
@@ -69,8 +69,8 @@ jobs:
           echo "::group::Echo Group"
           echo "Inside group $FINAL"
           echo "::endgroup::"
-          cat ${{ runner.temp }}/update.txt && [ `cat ${{ runner.temp }}/update.txt` == "Y" ] &&  [ -s ${{ runner.temp }}/.upgrade.tmp.patch ] && git apply ${{ runner.temp
-          }}/.upgrade.tmp.patch || echo "Skipping."
+          cat ${{ runner.temp }}/update.txt && [ `cat ${{ runner.temp }}/update.txt` == "Y" ] &&  [ -s ${{ runner.temp }}/upgrade.tmp.patch ] && git apply ${{ runner.temp
+          }}/upgrade.tmp.patch || echo "Skipping."
       - name: Create Pull Request
         id: create-pr
         uses: peter-evans/create-pull-request@v4.2.1
