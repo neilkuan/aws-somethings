@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-artifact@v4.4.0
         with:
           name: update.txt
-          path: .
+          path: ${{ runner.temp }}
           overwrite: true
       - name: Create Patch
         run: |-
