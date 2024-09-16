@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-artifact@v4.4.0
         with:
           name: update.txt
-          path: ${{ runner.temp }}
+          path: update.txt
       - name: Create Patch
         run: |-
           git add .
@@ -41,7 +41,7 @@ jobs:
         uses: actions/upload-artifact@v4.4.0
         with:
           name: upgrade.tmp.patch
-          path: ${{ runner.temp }}
+          path: upgrade.tmp.patch
   pr:
     name: Create Pull Request
     needs: update
