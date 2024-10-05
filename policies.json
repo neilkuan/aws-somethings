@@ -1230,5 +1230,6 @@
     "arn:aws:iam::aws:policy/AWSDirectoryServiceDataReadOnlyAccess",
     "arn:aws:iam::aws:policy/aws-service-role/QAppsServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonEKSWorkerNodeMinimalPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForProcurementInsightsPolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForProcurementInsightsPolicy",
+    "arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryPullOnly"
 ]
