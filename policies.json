@@ -1235,5 +1235,8 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSDataSyncServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSDataExchangeServiceRolePolicyForOrganizationDiscovery",
     "arn:aws:iam::aws:policy/aws-service-role/AWSDataExchangeServiceRolePolicyForLicenseManagement",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSSocialMessagingServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSSocialMessagingServiceRolePolicy",
+    "arn:aws:iam::aws:policy/ResourceGroupsTaggingAPITagUntagSupportedResources",
+    "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsFullAccess",
+    "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsReadOnlyAccess"
 ]
