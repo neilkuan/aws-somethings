@@ -1238,5 +1238,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSSocialMessagingServiceRolePolicy",
     "arn:aws:iam::aws:policy/ResourceGroupsTaggingAPITagUntagSupportedResources",
     "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsFullAccess",
-    "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsReadOnlyAccess"
+    "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsReadOnlyAccess",
+    "arn:aws:iam::aws:policy/CloudWatchLambdaApplicationSignalsExecutionRolePolicy"
 ]
