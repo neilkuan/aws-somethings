@@ -1239,5 +1239,6 @@
     "arn:aws:iam::aws:policy/ResourceGroupsTaggingAPITagUntagSupportedResources",
     "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsFullAccess",
     "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsReadOnlyAccess",
-    "arn:aws:iam::aws:policy/CloudWatchLambdaApplicationSignalsExecutionRolePolicy"
+    "arn:aws:iam::aws:policy/CloudWatchLambdaApplicationSignalsExecutionRolePolicy",
+    "arn:aws:iam::aws:policy/CloudWatchInternetMonitorFullAccess"
 ]
