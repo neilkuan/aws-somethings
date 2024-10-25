@@ -1240,5 +1240,8 @@
     "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsFullAccess",
     "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsReadOnlyAccess",
     "arn:aws:iam::aws:policy/CloudWatchLambdaApplicationSignalsExecutionRolePolicy",
-    "arn:aws:iam::aws:policy/CloudWatchInternetMonitorFullAccess"
+    "arn:aws:iam::aws:policy/CloudWatchInternetMonitorFullAccess",
+    "arn:aws:iam::aws:policy/AWSDataExchangeDataGrantOwnerFullAccess",
+    "arn:aws:iam::aws:policy/AWSDataExchangeDataGrantReceiverFullAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSCloudFrontVPCOriginServiceRolePolicy"
 ]
