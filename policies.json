@@ -1246,5 +1246,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSCloudFrontVPCOriginServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonEKSNetworkingPolicy",
     "arn:aws:iam::aws:policy/AmazonEKSLoadBalancingPolicy",
-    "arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicy"
+    "arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicy",
+    "arn:aws:iam::aws:policy/AmazonEKSComputePolicy"
 ]
