@@ -1247,5 +1247,9 @@
     "arn:aws:iam::aws:policy/AmazonEKSNetworkingPolicy",
     "arn:aws:iam::aws:policy/AmazonEKSLoadBalancingPolicy",
     "arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicy",
-    "arn:aws:iam::aws:policy/AmazonEKSComputePolicy"
+    "arn:aws:iam::aws:policy/AmazonEKSComputePolicy",
+    "arn:aws:iam::aws:policy/GameLiftContainerFleetPolicy",
+    "arn:aws:iam::aws:policy/service-role/AmazonDataZoneBedrockModelManagementPolicy",
+    "arn:aws:iam::aws:policy/service-role/AmazonDataZoneBedrockModelConsumptionPolicy",
+    "arn:aws:iam::aws:policy/CloudWatchInternetMonitorReadOnlyAccess"
 ]
