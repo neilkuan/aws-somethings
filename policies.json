@@ -1251,5 +1251,6 @@
     "arn:aws:iam::aws:policy/GameLiftContainerFleetPolicy",
     "arn:aws:iam::aws:policy/service-role/AmazonDataZoneBedrockModelManagementPolicy",
     "arn:aws:iam::aws:policy/service-role/AmazonDataZoneBedrockModelConsumptionPolicy",
-    "arn:aws:iam::aws:policy/CloudWatchInternetMonitorReadOnlyAccess"
+    "arn:aws:iam::aws:policy/CloudWatchInternetMonitorReadOnlyAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonODBServiceRolePolicy"
 ]
