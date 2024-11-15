@@ -1252,5 +1252,14 @@
     "arn:aws:iam::aws:policy/service-role/AmazonDataZoneBedrockModelManagementPolicy",
     "arn:aws:iam::aws:policy/service-role/AmazonDataZoneBedrockModelConsumptionPolicy",
     "arn:aws:iam::aws:policy/CloudWatchInternetMonitorReadOnlyAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonODBServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonODBServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/SMSVoiceServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSPartnerCentralOpportunityManagement",
+    "arn:aws:iam::aws:policy/AWSPartnerCentralSandboxFullAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/SecurityLakeResourceManagementServiceRolePolicy",
+    "arn:aws:iam::aws:policy/root-task/SQSUnlockQueuePolicy",
+    "arn:aws:iam::aws:policy/root-task/S3UnlockBucketPolicy",
+    "arn:aws:iam::aws:policy/root-task/IAMAuditRootUserCredentials",
+    "arn:aws:iam::aws:policy/root-task/IAMCreateRootUserPassword",
+    "arn:aws:iam::aws:policy/root-task/IAMDeleteRootUserCredentials"
 ]
