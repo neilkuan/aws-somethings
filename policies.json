@@ -1261,5 +1261,20 @@
     "arn:aws:iam::aws:policy/root-task/S3UnlockBucketPolicy",
     "arn:aws:iam::aws:policy/root-task/IAMAuditRootUserCredentials",
     "arn:aws:iam::aws:policy/root-task/IAMCreateRootUserPassword",
-    "arn:aws:iam::aws:policy/root-task/IAMDeleteRootUserCredentials"
+    "arn:aws:iam::aws:policy/root-task/IAMDeleteRootUserCredentials",
+    "arn:aws:iam::aws:policy/AmazonECSInfrastructureRolePolicyForVpcLattice",
+    "arn:aws:iam::aws:policy/AWSQuickSetupEnableDHMCExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupManagedInstanceProfileExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupSSMLifecycleManagementExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupSSMDeploymentS3BucketRolePolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupEnableAREXExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupSSMManageResourcesExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupSSMDeploymentRolePolicy",
+    "arn:aws:iam::aws:policy/AWS-SSM-Automation-DiagnosisBucketPolicy",
+    "arn:aws:iam::aws:policy/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy",
+    "arn:aws:iam::aws:policy/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy",
+    "arn:aws:iam::aws:policy/AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy",
+    "arn:aws:iam::aws:policy/AWS-SSM-RemediationAutomation-AdministrationRolePolicy",
+    "arn:aws:iam::aws:policy/AWS-SSM-RemediationAutomation-ExecutionRolePolicy",
+    "arn:aws:iam::aws:policy/AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy"
 ]
