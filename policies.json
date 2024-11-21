@@ -664,7 +664,6 @@
     "arn:aws:iam::aws:policy/AmazonBraketFullAccess",
     "arn:aws:iam::aws:policy/service-role/AWSLambdaMSKExecutionRole",
     "arn:aws:iam::aws:policy/AWSCompromisedKeyQuarantine",
-    "arn:aws:iam::aws:policy/service-role/ServerMigration_ServiceRole",
     "arn:aws:iam::aws:policy/AmazonEKSVPCResourceController",
     "arn:aws:iam::aws:policy/aws-service-role/Route53ResolverServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/ClientVPNServiceConnectionsRolePolicy",
@@ -1278,5 +1277,11 @@
     "arn:aws:iam::aws:policy/AWS-SSM-RemediationAutomation-ExecutionRolePolicy",
     "arn:aws:iam::aws:policy/AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy",
     "arn:aws:iam::aws:policy/AWSPartnerCentralFullAccess",
-    "arn:aws:iam::aws:policy/AWSMarketplaceSellerOfferManagement"
+    "arn:aws:iam::aws:policy/AWSMarketplaceSellerOfferManagement",
+    "arn:aws:iam::aws:policy/SageMakerStudioProjectRoleMachineLearningPolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioDomainServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioDomainExecutionRolePolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioProjectUserRolePermissionsBoundary",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioProjectProvisioningRolePolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioProjectUserRolePolicy"
 ]
