@@ -1283,5 +1283,8 @@
     "arn:aws:iam::aws:policy/service-role/SageMakerStudioDomainExecutionRolePolicy",
     "arn:aws:iam::aws:policy/SageMakerStudioProjectUserRolePermissionsBoundary",
     "arn:aws:iam::aws:policy/service-role/SageMakerStudioProjectProvisioningRolePolicy",
-    "arn:aws:iam::aws:policy/SageMakerStudioProjectUserRolePolicy"
+    "arn:aws:iam::aws:policy/SageMakerStudioProjectUserRolePolicy",
+    "arn:aws:iam::aws:policy/AWSArtifactAgreementsFullAccess",
+    "arn:aws:iam::aws:policy/AWSArtifactAgreementsReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AWSPartnerLedSupportReadOnlyAccess"
 ]
