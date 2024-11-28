@@ -1286,5 +1286,7 @@
     "arn:aws:iam::aws:policy/SageMakerStudioProjectUserRolePolicy",
     "arn:aws:iam::aws:policy/AWSArtifactAgreementsFullAccess",
     "arn:aws:iam::aws:policy/AWSArtifactAgreementsReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AWSPartnerLedSupportReadOnlyAccess"
+    "arn:aws:iam::aws:policy/AWSPartnerLedSupportReadOnlyAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminServiceRolePolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioFullAccess"
 ]
