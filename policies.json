@@ -1288,5 +1288,6 @@
     "arn:aws:iam::aws:policy/AWSArtifactAgreementsReadOnlyAccess",
     "arn:aws:iam::aws:policy/AWSPartnerLedSupportReadOnlyAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminServiceRolePolicy",
-    "arn:aws:iam::aws:policy/SageMakerStudioFullAccess"
+    "arn:aws:iam::aws:policy/SageMakerStudioFullAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/DeclarativePoliciesEC2Report"
 ]
