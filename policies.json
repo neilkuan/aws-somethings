@@ -1299,5 +1299,9 @@
     "arn:aws:iam::aws:policy/aws-service-role/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSSecurityIncidentResponseReadOnlyAccess",
     "arn:aws:iam::aws:policy/AWSSecurityIncidentResponseCaseFullAccess",
-    "arn:aws:iam::aws:policy/AWSSecurityIncidentResponseFullAccess"
+    "arn:aws:iam::aws:policy/AWSSecurityIncidentResponseFullAccess",
+    "arn:aws:iam::aws:policy/AIOpsAssistantPolicy",
+    "arn:aws:iam::aws:policy/AIOpsConsoleAdminPolicy",
+    "arn:aws:iam::aws:policy/AIOpsReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AIOpsOperatorAccess"
 ]
