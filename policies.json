@@ -1303,5 +1303,12 @@
     "arn:aws:iam::aws:policy/AIOpsAssistantPolicy",
     "arn:aws:iam::aws:policy/AIOpsConsoleAdminPolicy",
     "arn:aws:iam::aws:policy/AIOpsReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AIOpsOperatorAccess"
+    "arn:aws:iam::aws:policy/AIOpsOperatorAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AuroraDsqlServiceLinkedRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonS3TablesReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AmazonAuroraDSQLReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AmazonS3TablesFullAccess",
+    "arn:aws:iam::aws:policy/QBusinessQuicksightPluginPolicy",
+    "arn:aws:iam::aws:policy/AmazonAuroraDSQLConsoleFullAccess",
+    "arn:aws:iam::aws:policy/AmazonAuroraDSQLFullAccess"
 ]
