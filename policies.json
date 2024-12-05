@@ -1310,5 +1310,7 @@
     "arn:aws:iam::aws:policy/AmazonS3TablesFullAccess",
     "arn:aws:iam::aws:policy/QBusinessQuicksightPluginPolicy",
     "arn:aws:iam::aws:policy/AmazonAuroraDSQLConsoleFullAccess",
-    "arn:aws:iam::aws:policy/AmazonAuroraDSQLFullAccess"
+    "arn:aws:iam::aws:policy/AmazonAuroraDSQLFullAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerTrainingPlanCreateAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerCanvasSMDataScienceAssistantAccess"
 ]
