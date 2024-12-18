@@ -1313,5 +1313,7 @@
     "arn:aws:iam::aws:policy/AmazonAuroraDSQLFullAccess",
     "arn:aws:iam::aws:policy/AmazonSageMakerTrainingPlanCreateAccess",
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasSMDataScienceAssistantAccess",
-    "arn:aws:iam::aws:policy/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy"
+    "arn:aws:iam::aws:policy/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy",
+    "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForIndexing",
+    "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForItemRestores"
 ]
