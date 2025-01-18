@@ -1316,5 +1316,6 @@
     "arn:aws:iam::aws:policy/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy",
     "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForIndexing",
     "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForItemRestores",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerPartnerAppsFullAccess"
 ]
