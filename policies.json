@@ -1321,5 +1321,10 @@
     "arn:aws:iam::aws:policy/service-role/SageMakerStudioQueryExecutionRolePolicy",
     "arn:aws:iam::aws:policy/service-role/SageMakerStudioEMRServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSElementalMediaConnectReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AWSElementalMediaConnectFullAccess"
+    "arn:aws:iam::aws:policy/AWSElementalMediaConnectFullAccess",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockAgentServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockChatAgentUserRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockFlowServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockPromptUserRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockEvaluationJobServiceRolePolicy"
 ]
