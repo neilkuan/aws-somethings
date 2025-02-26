@@ -1326,5 +1326,8 @@
     "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockChatAgentUserRolePolicy",
     "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockFlowServiceRolePolicy",
     "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockPromptUserRolePolicy",
-    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockEvaluationJobServiceRolePolicy"
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockEvaluationJobServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy",
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockFunctionExecutionRolePolicy"
 ]
