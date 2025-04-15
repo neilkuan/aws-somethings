@@ -1334,5 +1334,6 @@
     "arn:aws:iam::aws:policy/AWSBackupSearchOperatorAccess",
     "arn:aws:iam::aws:policy/AWSIoTManagedIntegrationsFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSIoTManagedIntegrationsRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonECSComputeServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonECSComputeServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSMediaLiveAnywhereServiceRolePolicy"
 ]
