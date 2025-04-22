@@ -1342,5 +1342,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSSystemsManagerNotificationsServicePolicy",
     "arn:aws:iam::aws:policy/AWSSystemsManagerJustInTimeAccessTokenSessionPolicy",
     "arn:aws:iam::aws:policy/AWSSystemsManagerJustInTimeAccessTokenPolicy",
-    "arn:aws:iam::aws:policy/AWSQuickSetupManageJITNAResourcesExecutionPolicy"
+    "arn:aws:iam::aws:policy/AWSQuickSetupManageJITNAResourcesExecutionPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSSystemsManagerJustInTimeAccessServicePolicy",
+    "arn:aws:iam::aws:policy/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy"
 ]
