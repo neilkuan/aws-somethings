@@ -1345,5 +1345,6 @@
     "arn:aws:iam::aws:policy/AWSQuickSetupManageJITNAResourcesExecutionPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSSystemsManagerJustInTimeAccessServicePolicy",
     "arn:aws:iam::aws:policy/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonEKSDashboardServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonEKSDashboardServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSightSecretsManagerWritePolicy"
 ]
