@@ -1346,5 +1346,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSSystemsManagerJustInTimeAccessServicePolicy",
     "arn:aws:iam::aws:policy/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonEKSDashboardServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSQuickSightSecretsManagerWritePolicy"
+    "arn:aws:iam::aws:policy/AWSQuickSightSecretsManagerWritePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAWSTransform",
+    "arn:aws:iam::aws:policy/aws-service-role/CloudTrailEventContext"
 ]
