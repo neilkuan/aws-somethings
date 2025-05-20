@@ -1349,5 +1349,6 @@
     "arn:aws:iam::aws:policy/AWSQuickSightSecretsManagerWritePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAWSTransform",
     "arn:aws:iam::aws:policy/aws-service-role/CloudTrailEventContext",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonEVSServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonEVSServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSPrivateCAConnectorForKubernetesPolicy"
 ]
