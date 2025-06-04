@@ -1349,5 +1349,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AmazonEVSServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSPrivateCAConnectorForKubernetesPolicy",
     "arn:aws:iam::aws:policy/service-role/AWSQuickSightSecretsManagerWriteAccess",
-    "arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess_v2"
+    "arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess_v2",
+    "arn:aws:iam::aws:policy/service-role/AmazonSageMakerQuickSightVPCPolicy"
 ]
