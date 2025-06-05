@@ -1350,5 +1350,6 @@
     "arn:aws:iam::aws:policy/AWSPrivateCAConnectorForKubernetesPolicy",
     "arn:aws:iam::aws:policy/service-role/AWSQuickSightSecretsManagerWriteAccess",
     "arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess_v2",
-    "arn:aws:iam::aws:policy/service-role/AmazonSageMakerQuickSightVPCPolicy"
+    "arn:aws:iam::aws:policy/service-role/AmazonSageMakerQuickSightVPCPolicy",
+    "arn:aws:iam::aws:policy/AmazonGuardDutyFullAccess_v2"
 ]
