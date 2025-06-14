@@ -1355,5 +1355,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSSecurityHubV2ServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSNetworkFirewallReadOnlyAccess",
     "arn:aws:iam::aws:policy/AWSNetworkFirewallFullAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRolePolicyForWorkspacesInstances"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRolePolicyForWorkspacesInstances",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonWorkSpacesThinClientMonitoringServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/NetworkSecurityDirectorServiceLinkedRolePolicy"
 ]
