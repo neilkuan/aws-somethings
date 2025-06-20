@@ -1359,5 +1359,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AmazonWorkSpacesThinClientMonitoringServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/NetworkSecurityDirectorServiceLinkedRolePolicy",
     "arn:aws:iam::aws:policy/MultiPartyApprovalReadOnlyAccess",
-    "arn:aws:iam::aws:policy/MultiPartyApprovalFullAccess"
+    "arn:aws:iam::aws:policy/MultiPartyApprovalFullAccess",
+    "arn:aws:iam::aws:policy/AmazonEKSDashboardConsoleReadOnly",
+    "arn:aws:iam::aws:policy/service-role/AmazonS3TablesLakeFormationServiceRole"
 ]
