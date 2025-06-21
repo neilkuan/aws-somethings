@@ -1361,5 +1361,6 @@
     "arn:aws:iam::aws:policy/MultiPartyApprovalReadOnlyAccess",
     "arn:aws:iam::aws:policy/MultiPartyApprovalFullAccess",
     "arn:aws:iam::aws:policy/AmazonEKSDashboardConsoleReadOnly",
-    "arn:aws:iam::aws:policy/service-role/AmazonS3TablesLakeFormationServiceRole"
+    "arn:aws:iam::aws:policy/service-role/AmazonS3TablesLakeFormationServiceRole",
+    "arn:aws:iam::aws:policy/aws-service-role/KeyspacesCDCServiceRolePolicy"
 ]
