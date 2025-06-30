@@ -1363,5 +1363,7 @@
     "arn:aws:iam::aws:policy/AmazonEKSDashboardConsoleReadOnly",
     "arn:aws:iam::aws:policy/service-role/AmazonS3TablesLakeFormationServiceRole",
     "arn:aws:iam::aws:policy/aws-service-role/KeyspacesCDCServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSPCSComputeNodePolicy"
+    "arn:aws:iam::aws:policy/AWSPCSComputeNodePolicy",
+    "arn:aws:iam::aws:policy/AmazonBedrockLimitedAccess",
+    "arn:aws:iam::aws:policy/AmazonBedrockMarketplaceAccess"
 ]
