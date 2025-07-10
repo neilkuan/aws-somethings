@@ -1367,5 +1367,6 @@
     "arn:aws:iam::aws:policy/AmazonBedrockLimitedAccess",
     "arn:aws:iam::aws:policy/AmazonBedrockMarketplaceAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSZoneGroupAccessManagementServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonInspector2FullAccess_v2"
+    "arn:aws:iam::aws:policy/AmazonInspector2FullAccess_v2",
+    "arn:aws:iam::aws:policy/SageMakerStudioAdminProjectUserRolePolicy"
 ]
