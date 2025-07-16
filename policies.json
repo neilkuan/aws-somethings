@@ -1370,5 +1370,6 @@
     "arn:aws:iam::aws:policy/AmazonInspector2FullAccess_v2",
     "arn:aws:iam::aws:policy/SageMakerStudioAdminProjectUserRolePolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodObservabilityAdminAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSDirectoryServiceServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSDirectoryServiceServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBatchServiceRolePolicyForSageMaker"
 ]
