@@ -1375,5 +1375,6 @@
     "arn:aws:iam::aws:policy/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy",
     "arn:aws:iam::aws:policy/BedrockAgentCoreFullAccess",
     "arn:aws:iam::aws:policy/AWSRolesAnywhereFullAccess",
-    "arn:aws:iam::aws:policy/AWSRolesAnywhereReadOnly"
+    "arn:aws:iam::aws:policy/AWSRolesAnywhereReadOnly",
+    "arn:aws:iam::aws:policy/AmazonECSInfrastructureRolePolicyForLoadBalancers"
 ]
