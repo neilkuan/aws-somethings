@@ -1377,5 +1377,6 @@
     "arn:aws:iam::aws:policy/AWSRolesAnywhereFullAccess",
     "arn:aws:iam::aws:policy/AWSRolesAnywhereReadOnly",
     "arn:aws:iam::aws:policy/AmazonECSInfrastructureRolePolicyForLoadBalancers",
-    "arn:aws:iam::aws:policy/aws-service-role/BudgetsServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/BudgetsServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy"
 ]
