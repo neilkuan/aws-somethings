@@ -1378,5 +1378,7 @@
     "arn:aws:iam::aws:policy/AWSRolesAnywhereReadOnly",
     "arn:aws:iam::aws:policy/AmazonECSInfrastructureRolePolicyForLoadBalancers",
     "arn:aws:iam::aws:policy/aws-service-role/BudgetsServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupStartStopInstancesExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupStartSSMAssociationsExecutionPolicy"
 ]
