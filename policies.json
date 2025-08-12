@@ -1380,5 +1380,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/BudgetsServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSQuickSetupStartStopInstancesExecutionPolicy",
-    "arn:aws:iam::aws:policy/AWSQuickSetupStartSSMAssociationsExecutionPolicy"
+    "arn:aws:iam::aws:policy/AWSQuickSetupStartSSMAssociationsExecutionPolicy",
+    "arn:aws:iam::aws:policy/ROSASharedVPCRoute53Policy",
+    "arn:aws:iam::aws:policy/ROSASharedVPCEndpointPolicy"
 ]
