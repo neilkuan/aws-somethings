@@ -1377,5 +1377,11 @@
     "arn:aws:iam::aws:policy/ROSASharedVPCRoute53Policy",
     "arn:aws:iam::aws:policy/ROSASharedVPCEndpointPolicy",
     "arn:aws:iam::aws:policy/AWSManagementConsoleBasicUserAccess",
-    "arn:aws:iam::aws:policy/job-function/AWSManagementConsoleAdministratorAccess"
+    "arn:aws:iam::aws:policy/job-function/AWSManagementConsoleAdministratorAccess",
+    "arn:aws:iam::aws:policy/SageMakerStudioUserIAMDefaultExecutionPolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioAdminIAMPermissiveExecutionPolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioAdminIAMDefaultExecutionPolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioUserIAMPermissiveExecutionPolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioUserIAMConsolePolicy",
+    "arn:aws:iam::aws:policy/SageMakerStudioAdminIAMConsolePolicy"
 ]
