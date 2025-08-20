@@ -1383,5 +1383,6 @@
     "arn:aws:iam::aws:policy/SageMakerStudioAdminIAMDefaultExecutionPolicy",
     "arn:aws:iam::aws:policy/SageMakerStudioUserIAMPermissiveExecutionPolicy",
     "arn:aws:iam::aws:policy/SageMakerStudioUserIAMConsolePolicy",
-    "arn:aws:iam::aws:policy/SageMakerStudioAdminIAMConsolePolicy"
+    "arn:aws:iam::aws:policy/SageMakerStudioAdminIAMConsolePolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodTrainingOperatorAccess"
 ]
