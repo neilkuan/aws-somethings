@@ -1385,5 +1385,6 @@
     "arn:aws:iam::aws:policy/SageMakerStudioUserIAMConsolePolicy",
     "arn:aws:iam::aws:policy/SageMakerStudioAdminIAMConsolePolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodTrainingOperatorAccess",
-    "arn:aws:iam::aws:policy/AmazonEC2ImageReferencesAccessPolicy"
+    "arn:aws:iam::aws:policy/AmazonEC2ImageReferencesAccessPolicy",
+    "arn:aws:iam::aws:policy/service-role/AWSTransformApplicationDeploymentPolicy"
 ]
