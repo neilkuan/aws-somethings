@@ -339,8 +339,6 @@
     "arn:aws:iam::aws:policy/AWSFMAdminFullAccess",
     "arn:aws:iam::aws:policy/AWSFMAdminReadOnlyAccess",
     "arn:aws:iam::aws:policy/AWSFMMemberReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AWSIoT1ClickReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AWSIoT1ClickFullAccess",
     "arn:aws:iam::aws:policy/AmazonEKSClusterPolicy",
     "arn:aws:iam::aws:policy/AmazonEKS_CNI_Policy",
     "arn:aws:iam::aws:policy/AmazonEKSServicePolicy",
