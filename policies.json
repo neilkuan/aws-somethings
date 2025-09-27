@@ -1387,5 +1387,7 @@
     "arn:aws:iam::aws:policy/service-role/AWSTransformApplicationDeploymentPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSBillingServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminLogsCentralizationServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/BedrockAgentCoreNetworkServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/BedrockAgentCoreNetworkServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonECSInfrastructureRolePolicyForManagedInstances",
+    "arn:aws:iam::aws:policy/AmazonECSInstanceRolePolicyForManagedInstances"
 ]
