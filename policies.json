@@ -1389,5 +1389,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSObservabilityAdminLogsCentralizationServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/BedrockAgentCoreNetworkServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonECSInfrastructureRolePolicyForManagedInstances",
-    "arn:aws:iam::aws:policy/AmazonECSInstanceRolePolicyForManagedInstances"
+    "arn:aws:iam::aws:policy/AmazonECSInstanceRolePolicyForManagedInstances",
+    "arn:aws:iam::aws:policy/service-role/AWSTransformApplicationECSDeploymentPolicy",
+    "arn:aws:iam::aws:policy/service-role/AWSControlTowerIdentityCenterManagementPolicy"
 ]
