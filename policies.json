@@ -1394,5 +1394,6 @@
     "arn:aws:iam::aws:policy/service-role/AWSControlTowerIdentityCenterManagementPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSEC2CapacityManagerServiceRolePolicy",
     "arn:aws:iam::aws:policy/AIOpsAssistantIncidentReportPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/BedrockAgentCoreRuntimeIdentityServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/BedrockAgentCoreRuntimeIdentityServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/DynamoDBGlobalTableSettingsManagementServiceRolePolicy"
 ]
