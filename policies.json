@@ -1401,5 +1401,6 @@
     "arn:aws:iam::aws:policy/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy",
     "arn:aws:iam::aws:policy/AWSApplicationMigrationNetworkMigrationCustomResource",
     "arn:aws:iam::aws:policy/AWSSecretsManagerClientReadOnlyAccess",
-    "arn:aws:iam::aws:policy/service-role/AWSControlTowerCloudTrailRolePolicy"
+    "arn:aws:iam::aws:policy/service-role/AWSControlTowerCloudTrailRolePolicy",
+    "arn:aws:iam::aws:policy/AWSApplicationMigrationNetworkMigrationMultiAccount"
 ]
