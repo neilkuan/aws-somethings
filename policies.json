@@ -1403,5 +1403,7 @@
     "arn:aws:iam::aws:policy/AWSSecretsManagerClientReadOnlyAccess",
     "arn:aws:iam::aws:policy/service-role/AWSControlTowerCloudTrailRolePolicy",
     "arn:aws:iam::aws:policy/AWSApplicationMigrationNetworkMigrationMultiAccount",
-    "arn:aws:iam::aws:policy/service-role/AmazonECSInfrastructureRoleforExpressGatewayServices"
+    "arn:aws:iam::aws:policy/service-role/AmazonECSInfrastructureRoleforExpressGatewayServices",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSEC2SqlHaServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSEC2SqlHaInstancePolicy"
 ]
