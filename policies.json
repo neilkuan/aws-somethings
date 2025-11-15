@@ -1405,5 +1405,7 @@
     "arn:aws:iam::aws:policy/AWSApplicationMigrationNetworkMigrationMultiAccount",
     "arn:aws:iam::aws:policy/service-role/AmazonECSInfrastructureRoleforExpressGatewayServices",
     "arn:aws:iam::aws:policy/aws-service-role/AWSEC2SqlHaServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSEC2SqlHaInstancePolicy"
+    "arn:aws:iam::aws:policy/AWSEC2SqlHaInstancePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSNATGatewayServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonAthenaServiceRolePolicy"
 ]
