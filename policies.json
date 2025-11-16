@@ -1408,5 +1408,6 @@
     "arn:aws:iam::aws:policy/AWSEC2SqlHaInstancePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSNATGatewayServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonAthenaServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/ComputeOptimizerAutomationServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/ComputeOptimizerAutomationServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonMWAAServerlessServiceRolePolicy"
 ]
