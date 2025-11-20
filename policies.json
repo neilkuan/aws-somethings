@@ -1409,5 +1409,10 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSNATGatewayServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonAthenaServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/ComputeOptimizerAutomationServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonMWAAServerlessServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonMWAAServerlessServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerSpacesRouterPolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerSpacesControllerPolicy",
+    "arn:aws:iam::aws:policy/AWSPartnerCentralChannelHandshakeApprovalManagement",
+    "arn:aws:iam::aws:policy/AWSPartnerCentralChannelManagement",
+    "arn:aws:iam::aws:policy/SignInLocalDevelopmentAccess"
 ]
