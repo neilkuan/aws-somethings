@@ -1414,5 +1414,8 @@
     "arn:aws:iam::aws:policy/AmazonSageMakerSpacesControllerPolicy",
     "arn:aws:iam::aws:policy/AWSPartnerCentralChannelHandshakeApprovalManagement",
     "arn:aws:iam::aws:policy/AWSPartnerCentralChannelManagement",
-    "arn:aws:iam::aws:policy/SignInLocalDevelopmentAccess"
+    "arn:aws:iam::aws:policy/SignInLocalDevelopmentAccess",
+    "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForScans",
+    "arn:aws:iam::aws:policy/AWSBackupGuardDutyRolePolicyForScans",
+    "arn:aws:iam::aws:policy/AmazonEKSMCPReadOnlyAccess"
 ]
