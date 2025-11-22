@@ -1417,5 +1417,8 @@
     "arn:aws:iam::aws:policy/SignInLocalDevelopmentAccess",
     "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForScans",
     "arn:aws:iam::aws:policy/AWSBackupGuardDutyRolePolicyForScans",
-    "arn:aws:iam::aws:policy/AmazonEKSMCPReadOnlyAccess"
+    "arn:aws:iam::aws:policy/AmazonEKSMCPReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AWSMcpServiceActionsFullAccess",
+    "arn:aws:iam::aws:policy/AmazonRedshiftFederatedAuthorization",
+    "arn:aws:iam::aws:policy/service-role/AWSIdentityCenterExternalManagementPolicy"
 ]
