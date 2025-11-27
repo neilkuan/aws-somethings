@@ -1420,5 +1420,6 @@
     "arn:aws:iam::aws:policy/AmazonEKSMCPReadOnlyAccess",
     "arn:aws:iam::aws:policy/AWSMcpServiceActionsFullAccess",
     "arn:aws:iam::aws:policy/AmazonRedshiftFederatedAuthorization",
-    "arn:aws:iam::aws:policy/service-role/AWSIdentityCenterExternalManagementPolicy"
+    "arn:aws:iam::aws:policy/service-role/AWSIdentityCenterExternalManagementPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/NovaActServiceRolePolicy"
 ]
