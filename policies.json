@@ -1421,5 +1421,8 @@
     "arn:aws:iam::aws:policy/AWSMcpServiceActionsFullAccess",
     "arn:aws:iam::aws:policy/AmazonRedshiftFederatedAuthorization",
     "arn:aws:iam::aws:policy/service-role/AWSIdentityCenterExternalManagementPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/NovaActServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/NovaActServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSLambdaServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSLambdaManagedEC2ResourceOperator",
+    "arn:aws:iam::aws:policy/AWSPartnerCentralMarketingManagement"
 ]
