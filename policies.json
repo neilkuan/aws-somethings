@@ -1426,5 +1426,8 @@
     "arn:aws:iam::aws:policy/AWSLambdaManagedEC2ResourceOperator",
     "arn:aws:iam::aws:policy/AWSPartnerCentralMarketingManagement",
     "arn:aws:iam::aws:policy/service-role/SecurityAgentWebAppAPIPolicy",
-    "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicDurableExecutionRolePolicy"
+    "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicDurableExecutionRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonBedrockMantleInferenceAccess",
+    "arn:aws:iam::aws:policy/AmazonBedrockMantleFullAccess",
+    "arn:aws:iam::aws:policy/AmazonBedrockMantleReadOnly"
 ]
