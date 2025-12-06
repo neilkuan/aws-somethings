@@ -1429,5 +1429,8 @@
     "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicDurableExecutionRolePolicy",
     "arn:aws:iam::aws:policy/AmazonBedrockMantleInferenceAccess",
     "arn:aws:iam::aws:policy/AmazonBedrockMantleFullAccess",
-    "arn:aws:iam::aws:policy/AmazonBedrockMantleReadOnly"
+    "arn:aws:iam::aws:policy/AmazonBedrockMantleReadOnly",
+    "arn:aws:iam::aws:policy/AWSTransformCustomFullAccess",
+    "arn:aws:iam::aws:policy/AWSTransformCustomExecuteTransformations",
+    "arn:aws:iam::aws:policy/AWSTransformCustomManageTransformations"
 ]
