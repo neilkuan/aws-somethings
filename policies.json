@@ -1432,5 +1432,9 @@
     "arn:aws:iam::aws:policy/AmazonBedrockMantleReadOnly",
     "arn:aws:iam::aws:policy/AWSTransformCustomFullAccess",
     "arn:aws:iam::aws:policy/AWSTransformCustomExecuteTransformations",
-    "arn:aws:iam::aws:policy/AWSTransformCustomManageTransformations"
+    "arn:aws:iam::aws:policy/AWSTransformCustomManageTransformations",
+    "arn:aws:iam::aws:policy/AccountManagementFromVercel",
+    "arn:aws:iam::aws:policy/ConsoleFullAccessFromVercel",
+    "arn:aws:iam::aws:policy/ConsoleViewOnlyAccessFromVercel",
+    "arn:aws:iam::aws:policy/AWSAccountSettingsManagementRole"
 ]
