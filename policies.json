@@ -1436,5 +1436,7 @@
     "arn:aws:iam::aws:policy/AccountManagementFromVercel",
     "arn:aws:iam::aws:policy/ConsoleFullAccessFromVercel",
     "arn:aws:iam::aws:policy/ConsoleViewOnlyAccessFromVercel",
-    "arn:aws:iam::aws:policy/AWSAccountSettingsManagementRole"
+    "arn:aws:iam::aws:policy/AWSAccountSettingsManagementRole",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSUserAttributeCostAllocationPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSCleanRoomsServiceRolePolicy"
 ]
