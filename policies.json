@@ -1441,5 +1441,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSCleanRoomsServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodGatedModelAccess",
     "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodInferenceAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSHealthImagingServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSHealthImagingServiceRolePolicy",
+    "arn:aws:iam::aws:policy/SecurityAgentWebAppPolicy",
+    "arn:aws:iam::aws:policy/service-role/AWSSecurityAgentWebAppPolicy"
 ]
