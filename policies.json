@@ -1444,5 +1444,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSHealthImagingServiceRolePolicy",
     "arn:aws:iam::aws:policy/SecurityAgentWebAppPolicy",
     "arn:aws:iam::aws:policy/service-role/AWSSecurityAgentWebAppPolicy",
-    "arn:aws:iam::aws:policy/PartnerCentralIncentiveBenefitManagement"
+    "arn:aws:iam::aws:policy/PartnerCentralIncentiveBenefitManagement",
+    "arn:aws:iam::aws:policy/AmazonInspector2ManagedTelemetryPolicy"
 ]
