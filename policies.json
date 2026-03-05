@@ -1447,5 +1447,7 @@
     "arn:aws:iam::aws:policy/PartnerCentralIncentiveBenefitManagement",
     "arn:aws:iam::aws:policy/AmazonInspector2ManagedTelemetryPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAIDevOpsPolicy",
-    "arn:aws:iam::aws:policy/CloudWatchLogsAPIKeyAccess"
+    "arn:aws:iam::aws:policy/CloudWatchLogsAPIKeyAccess",
+    "arn:aws:iam::aws:policy/AWSTransformSecretsManagerConnectorPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSHealthOmicsServiceLinkedRolePolicy"
 ]
