@@ -1449,5 +1449,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAIDevOpsPolicy",
     "arn:aws:iam::aws:policy/CloudWatchLogsAPIKeyAccess",
     "arn:aws:iam::aws:policy/AWSTransformSecretsManagerConnectorPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSHealthOmicsServiceLinkedRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSHealthOmicsServiceLinkedRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonRoute53GlobalResolverFullAccess",
+    "arn:aws:iam::aws:policy/AmazonRoute53GlobalResolverReadOnlyAccess"
 ]
