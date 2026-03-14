@@ -278,7 +278,6 @@
     "arn:aws:iam::aws:policy/AmazonMQReadOnlyAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonGuardDutyServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonGuardDutyReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AmazonGuardDutyFullAccess",
     "arn:aws:iam::aws:policy/AmazonSageMakerReadOnly",
     "arn:aws:iam::aws:policy/AmazonSageMakerFullAccess",
     "arn:aws:iam::aws:policy/AmazonFreeRTOSFullAccess",
