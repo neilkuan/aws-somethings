@@ -1450,5 +1450,9 @@
     "arn:aws:iam::aws:policy/AWSTransformSecretsManagerConnectorPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSHealthOmicsServiceLinkedRolePolicy",
     "arn:aws:iam::aws:policy/AmazonRoute53GlobalResolverFullAccess",
-    "arn:aws:iam::aws:policy/AmazonRoute53GlobalResolverReadOnlyAccess"
+    "arn:aws:iam::aws:policy/AmazonRoute53GlobalResolverReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AWSElementalMediaConnectCreateFlow",
+    "arn:aws:iam::aws:policy/AWSElementalMediaConnectCreateBridge",
+    "arn:aws:iam::aws:policy/AWSElementalMediaConnectDeleteFlow",
+    "arn:aws:iam::aws:policy/AWSElementalMediaConnectDeleteBridge"
 ]
