@@ -1454,5 +1454,8 @@
     "arn:aws:iam::aws:policy/AWSElementalMediaConnectCreateFlow",
     "arn:aws:iam::aws:policy/AWSElementalMediaConnectCreateBridge",
     "arn:aws:iam::aws:policy/AWSElementalMediaConnectDeleteFlow",
-    "arn:aws:iam::aws:policy/AWSElementalMediaConnectDeleteBridge"
+    "arn:aws:iam::aws:policy/AWSElementalMediaConnectDeleteBridge",
+    "arn:aws:iam::aws:policy/AWSPartnerProServeToolsIndividualContributor",
+    "arn:aws:iam::aws:policy/AWSPartnerProServeToolsFullAccess",
+    "arn:aws:iam::aws:policy/AWSPartnerProServeToolsOrganizationReaderIndividualContributor"
 ]
