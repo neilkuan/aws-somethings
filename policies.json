@@ -1457,5 +1457,9 @@
     "arn:aws:iam::aws:policy/AWSElementalMediaConnectDeleteBridge",
     "arn:aws:iam::aws:policy/AWSPartnerProServeToolsIndividualContributor",
     "arn:aws:iam::aws:policy/AWSPartnerProServeToolsFullAccess",
-    "arn:aws:iam::aws:policy/AWSPartnerProServeToolsOrganizationReaderIndividualContributor"
+    "arn:aws:iam::aws:policy/AWSPartnerProServeToolsOrganizationReaderIndividualContributor",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAWSTransformCustom",
+    "arn:aws:iam::aws:policy/DBModDiscoveryAndAssessment",
+    "arn:aws:iam::aws:policy/DBModProvisioningAndMigration",
+    "arn:aws:iam::aws:policy/AWSEC2VssRestorePolicy"
 ]
