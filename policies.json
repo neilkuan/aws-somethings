@@ -1461,5 +1461,9 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAWSTransformCustom",
     "arn:aws:iam::aws:policy/DBModDiscoveryAndAssessment",
     "arn:aws:iam::aws:policy/DBModProvisioningAndMigration",
-    "arn:aws:iam::aws:policy/AWSEC2VssRestorePolicy"
+    "arn:aws:iam::aws:policy/AWSEC2VssRestorePolicy",
+    "arn:aws:iam::aws:policy/AIDevOpsAgentReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AIDevOpsAgentAccessPolicy",
+    "arn:aws:iam::aws:policy/AIDevOpsOperatorAppAccessPolicy",
+    "arn:aws:iam::aws:policy/AIDevOpsAgentFullAccess"
 ]
