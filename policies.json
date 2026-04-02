@@ -1466,5 +1466,9 @@
     "arn:aws:iam::aws:policy/AIDevOpsAgentAccessPolicy",
     "arn:aws:iam::aws:policy/AIDevOpsOperatorAppAccessPolicy",
     "arn:aws:iam::aws:policy/AIDevOpsAgentFullAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AnthropicReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AnthropicInferenceAccess",
+    "arn:aws:iam::aws:policy/AnthropicLimitedAccess",
+    "arn:aws:iam::aws:policy/AnthropicFullAccess"
 ]
