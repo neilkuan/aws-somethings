@@ -1470,5 +1470,7 @@
     "arn:aws:iam::aws:policy/AnthropicReadOnlyAccess",
     "arn:aws:iam::aws:policy/AnthropicInferenceAccess",
     "arn:aws:iam::aws:policy/AnthropicLimitedAccess",
-    "arn:aws:iam::aws:policy/AnthropicFullAccess"
+    "arn:aws:iam::aws:policy/AnthropicFullAccess",
+    "arn:aws:iam::aws:policy/AmazonS3ExpressReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AmazonS3ExpressFullAccess"
 ]
