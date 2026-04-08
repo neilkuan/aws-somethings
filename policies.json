@@ -1472,5 +1472,11 @@
     "arn:aws:iam::aws:policy/AnthropicLimitedAccess",
     "arn:aws:iam::aws:policy/AnthropicFullAccess",
     "arn:aws:iam::aws:policy/AmazonS3ExpressReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AmazonS3ExpressFullAccess"
+    "arn:aws:iam::aws:policy/AmazonS3ExpressFullAccess",
+    "arn:aws:iam::aws:policy/AmazonS3FilesFullAccess",
+    "arn:aws:iam::aws:policy/AmazonS3FilesReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AmazonS3FilesClientReadWriteAccess",
+    "arn:aws:iam::aws:policy/AmazonS3FilesClientFullAccess",
+    "arn:aws:iam::aws:policy/AmazonS3FilesClientReadOnlyAccess",
+    "arn:aws:iam::aws:policy/service-role/AmazonS3FilesCSIDriverPolicy"
 ]
