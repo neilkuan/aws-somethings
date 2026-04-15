@@ -1479,5 +1479,6 @@
     "arn:aws:iam::aws:policy/AmazonS3FilesClientFullAccess",
     "arn:aws:iam::aws:policy/AmazonS3FilesClientReadOnlyAccess",
     "arn:aws:iam::aws:policy/service-role/AmazonS3FilesCSIDriverPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonSageMakerCapacityReservationServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonSageMakerCapacityReservationServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy"
 ]
