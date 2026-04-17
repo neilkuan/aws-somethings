@@ -1480,5 +1480,7 @@
     "arn:aws:iam::aws:policy/AmazonS3FilesClientReadOnlyAccess",
     "arn:aws:iam::aws:policy/service-role/AmazonS3FilesCSIDriverPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonSageMakerCapacityReservationServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonEBSCSIDriverPolicyV2",
+    "arn:aws:iam::aws:policy/AmazonEBSCSIDriverEKSClusterScopedPolicy"
 ]
