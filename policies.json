@@ -1483,5 +1483,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonEBSCSIDriverPolicyV2",
     "arn:aws:iam::aws:policy/AmazonEBSCSIDriverEKSClusterScopedPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/EC2ApplicationStatusChecksServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/EC2ApplicationStatusChecksServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSMarketplaceDiscoveryFullAccess"
 ]
