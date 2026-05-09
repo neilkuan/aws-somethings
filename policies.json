@@ -1468,7 +1468,6 @@
     "arn:aws:iam::aws:policy/AIDevOpsAgentFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy",
     "arn:aws:iam::aws:policy/AnthropicReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AnthropicInferenceAccess",
     "arn:aws:iam::aws:policy/AnthropicLimitedAccess",
     "arn:aws:iam::aws:policy/AnthropicFullAccess",
     "arn:aws:iam::aws:policy/AmazonS3ExpressReadOnlyAccess",
@@ -1484,5 +1483,7 @@
     "arn:aws:iam::aws:policy/AmazonEBSCSIDriverPolicyV2",
     "arn:aws:iam::aws:policy/AmazonEBSCSIDriverEKSClusterScopedPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/EC2ApplicationStatusChecksServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSMarketplaceDiscoveryFullAccess"
+    "arn:aws:iam::aws:policy/AWSMarketplaceDiscoveryFullAccess",
+    "arn:aws:iam::aws:policy/CloudWatchAPIKeyAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSAppConfigServiceRolePolicy"
 ]
