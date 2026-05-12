@@ -1485,5 +1485,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/EC2ApplicationStatusChecksServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSMarketplaceDiscoveryFullAccess",
     "arn:aws:iam::aws:policy/CloudWatchAPIKeyAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSAppConfigServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSAppConfigServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSVPCFlowLogsServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicyV2"
 ]
