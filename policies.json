@@ -1487,5 +1487,6 @@
     "arn:aws:iam::aws:policy/CloudWatchAPIKeyAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSAppConfigServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSVPCFlowLogsServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicyV2"
+    "arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicyV2",
+    "arn:aws:iam::aws:policy/AmazonSageMakerModelCustomizationCoreAccess"
 ]
