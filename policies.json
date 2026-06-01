@@ -1489,5 +1489,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSVPCFlowLogsServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicyV2",
     "arn:aws:iam::aws:policy/AmazonSageMakerModelCustomizationCoreAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSResilienceHubServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSResilienceHubServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/AWSApplicationMigrationFSxProxyPolicy",
+    "arn:aws:iam::aws:policy/service-role/AWSApplicationMigrationFSxProxyVPCPolicy"
 ]
