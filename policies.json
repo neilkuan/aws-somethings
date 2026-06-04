@@ -1491,5 +1491,11 @@
     "arn:aws:iam::aws:policy/AmazonSageMakerModelCustomizationCoreAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSResilienceHubServiceRolePolicy",
     "arn:aws:iam::aws:policy/service-role/AWSApplicationMigrationFSxProxyPolicy",
-    "arn:aws:iam::aws:policy/service-role/AWSApplicationMigrationFSxProxyVPCPolicy"
+    "arn:aws:iam::aws:policy/service-role/AWSApplicationMigrationFSxProxyVPCPolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerJobRuntimeAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerJobFullAccess",
+    "arn:aws:iam::aws:policy/AWSQuickSetupPatchPolicyTagManagementExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSQuickSetupPatchPolicyLambdaExecutionPolicy",
+    "arn:aws:iam::aws:policy/FinOpsAgentOperatorPolicy",
+    "arn:aws:iam::aws:policy/FinOpsAgentAgentPolicy"
 ]
