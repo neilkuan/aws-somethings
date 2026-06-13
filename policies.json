@@ -1500,5 +1500,6 @@
     "arn:aws:iam::aws:policy/FinOpsAgentAgentPolicy",
     "arn:aws:iam::aws:policy/EC2ImageBuilderExecutionPolicy",
     "arn:aws:iam::aws:policy/ReInventTicketApprovalAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSSecurityAgentServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSSecurityAgentServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AnthropicSelfHostedEnvironmentAccess"
 ]
