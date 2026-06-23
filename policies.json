@@ -1502,5 +1502,8 @@
     "arn:aws:iam::aws:policy/ReInventTicketApprovalAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSSecurityAgentServiceRolePolicy",
     "arn:aws:iam::aws:policy/AnthropicSelfHostedEnvironmentAccess",
-    "arn:aws:iam::aws:policy/AWSResilienceHubV2AssessmentExecutionPolicy"
+    "arn:aws:iam::aws:policy/AWSResilienceHubV2AssessmentExecutionPolicy",
+    "arn:aws:iam::aws:policy/AWSLambdaNetworkConnectorOperatorPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSConfigThirdPartyServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/AmazonEMRServicePolicyForSessions"
 ]
