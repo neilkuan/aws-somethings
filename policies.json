@@ -1505,5 +1505,6 @@
     "arn:aws:iam::aws:policy/AWSResilienceHubV2AssessmentExecutionPolicy",
     "arn:aws:iam::aws:policy/AWSLambdaNetworkConnectorOperatorPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSConfigThirdPartyServiceRolePolicy",
-    "arn:aws:iam::aws:policy/service-role/AmazonEMRServicePolicyForSessions"
+    "arn:aws:iam::aws:policy/service-role/AmazonEMRServicePolicyForSessions",
+    "arn:aws:iam::aws:policy/AIDevOpsAgentActionsPolicy"
 ]
