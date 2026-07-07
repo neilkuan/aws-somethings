@@ -1516,5 +1516,6 @@
     "arn:aws:iam::aws:policy/AWSTransformSecurityAgentExecutorAccess",
     "arn:aws:iam::aws:policy/AWSElasticBeanstalkEKSObservability",
     "arn:aws:iam::aws:policy/AWSElasticBeanstalkEKSTagging",
-    "arn:aws:iam::aws:policy/AWSElasticBeanstalkEKSImageBuild"
+    "arn:aws:iam::aws:policy/AWSElasticBeanstalkEKSImageBuild",
+    "arn:aws:iam::aws:policy/DBModVirtualSource"
 ]
