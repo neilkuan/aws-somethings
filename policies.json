@@ -1518,5 +1518,6 @@
     "arn:aws:iam::aws:policy/AWSElasticBeanstalkEKSTagging",
     "arn:aws:iam::aws:policy/AWSElasticBeanstalkEKSImageBuild",
     "arn:aws:iam::aws:policy/DBModVirtualSource",
-    "arn:aws:iam::aws:policy/AWSTransformRevenueAttributionPolicy"
+    "arn:aws:iam::aws:policy/AWSTransformRevenueAttributionPolicy",
+    "arn:aws:iam::aws:policy/AWSMCPSignInOAuthAccessPolicy"
 ]
