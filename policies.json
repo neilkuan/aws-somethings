@@ -1521,5 +1521,8 @@
     "arn:aws:iam::aws:policy/AWSTransformRevenueAttributionPolicy",
     "arn:aws:iam::aws:policy/AWSMCPSignInOAuthAccessPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSIAMRoleManagerServiceRolePolicy",
-    "arn:aws:iam::aws:policy/WellArchitectedAgentResourceScanning"
+    "arn:aws:iam::aws:policy/WellArchitectedAgentResourceScanning",
+    "arn:aws:iam::aws:policy/AWSManagedBudgetsSpendLimitManagementAccess",
+    "arn:aws:iam::aws:policy/AWSManagedAccountUserEntitlementAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBudgetsSpendLimitMemberRolePolicy"
 ]
