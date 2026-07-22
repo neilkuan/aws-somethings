@@ -1528,5 +1528,10 @@
     "arn:aws:iam::aws:policy/service-role/AWSManagedSignUpAdminAccess",
     "arn:aws:iam::aws:policy/AWSManagedAccountManagementAccess",
     "arn:aws:iam::aws:policy/AWSTransformInfrastructureExecutorAccessBatch",
-    "arn:aws:iam::aws:policy/AWSTransformInfrastructureExecutorAccessEC2"
+    "arn:aws:iam::aws:policy/AWSTransformInfrastructureExecutorAccessEC2",
+    "arn:aws:iam::aws:policy/AWSManagedAdvancedFeaturesActivationAccess",
+    "arn:aws:iam::aws:policy/AWSManagedControlPolicyManagementAccess",
+    "arn:aws:iam::aws:policy/service-role/AWSManagedServiceAccessManagementAccess",
+    "arn:aws:iam::aws:policy/AWSManagedSettingsReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AWSManagedSettingsAdminAccess"
 ]
