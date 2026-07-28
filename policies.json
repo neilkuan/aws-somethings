@@ -1535,5 +1535,6 @@
     "arn:aws:iam::aws:policy/AWSManagedSettingsReadOnlyAccess",
     "arn:aws:iam::aws:policy/AWSManagedSettingsAdminAccess",
     "arn:aws:iam::aws:policy/AmazonODBFullAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSSDMPServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSSDMPServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/ROSAKarpenterControllerPolicy"
 ]
