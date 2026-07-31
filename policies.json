@@ -1536,5 +1536,9 @@
     "arn:aws:iam::aws:policy/AWSManagedSettingsAdminAccess",
     "arn:aws:iam::aws:policy/AmazonODBFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSSDMPServiceRolePolicy",
-    "arn:aws:iam::aws:policy/service-role/ROSAKarpenterControllerPolicy"
+    "arn:aws:iam::aws:policy/service-role/ROSAKarpenterControllerPolicy",
+    "arn:aws:iam::aws:policy/PricingPlanManagerFullAccess",
+    "arn:aws:iam::aws:policy/PricingPlanManagerReadonlyAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonInspector2AmiScanServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonSageMakerInferenceServiceRolePolicy"
 ]
