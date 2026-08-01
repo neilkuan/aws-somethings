@@ -1540,5 +1540,7 @@
     "arn:aws:iam::aws:policy/PricingPlanManagerFullAccess",
     "arn:aws:iam::aws:policy/PricingPlanManagerReadonlyAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonInspector2AmiScanServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonSageMakerInferenceServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonSageMakerInferenceServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSSupportPlansServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSResilienceHubResilienceTestingPolicy"
 ]
