@@ -1542,5 +1542,9 @@
     "arn:aws:iam::aws:policy/aws-service-role/AmazonInspector2AmiScanServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonSageMakerInferenceServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSSupportPlansServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSResilienceHubResilienceTestingPolicy"
+    "arn:aws:iam::aws:policy/AWSResilienceHubResilienceTestingPolicy",
+    "arn:aws:iam::aws:policy/AmazonBedrockWebSearchFullAccess",
+    "arn:aws:iam::aws:policy/AmazonBedrockExternalWebSearchReadOnly",
+    "arn:aws:iam::aws:policy/AmazonBedrockExternalWebSearchFullAccess",
+    "arn:aws:iam::aws:policy/AmazonBedrockWebSearchReadOnly"
 ]
