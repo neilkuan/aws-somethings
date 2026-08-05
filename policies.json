@@ -1546,5 +1546,6 @@
     "arn:aws:iam::aws:policy/AmazonBedrockWebSearchFullAccess",
     "arn:aws:iam::aws:policy/AmazonBedrockExternalWebSearchReadOnly",
     "arn:aws:iam::aws:policy/AmazonBedrockExternalWebSearchFullAccess",
-    "arn:aws:iam::aws:policy/AmazonBedrockWebSearchReadOnly"
+    "arn:aws:iam::aws:policy/AmazonBedrockWebSearchReadOnly",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSWellArchitectedAgentResourceScanningServiceRolePolicy"
 ]
