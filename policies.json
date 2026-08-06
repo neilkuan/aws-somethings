@@ -1547,5 +1547,9 @@
     "arn:aws:iam::aws:policy/AmazonBedrockExternalWebSearchReadOnly",
     "arn:aws:iam::aws:policy/AmazonBedrockExternalWebSearchFullAccess",
     "arn:aws:iam::aws:policy/AmazonBedrockWebSearchReadOnly",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSWellArchitectedAgentResourceScanningServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSWellArchitectedAgentResourceScanningServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy",
+    "arn:aws:iam::aws:policy/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy",
+    "arn:aws:iam::aws:policy/BedrockAgentCoreRuntimeInstancesInstanceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/AIDevOpsConstellationAccessPolicy"
 ]
