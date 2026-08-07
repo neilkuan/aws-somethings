@@ -1551,5 +1551,16 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy",
     "arn:aws:iam::aws:policy/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy",
     "arn:aws:iam::aws:policy/BedrockAgentCoreRuntimeInstancesInstanceRolePolicy",
-    "arn:aws:iam::aws:policy/service-role/AIDevOpsConstellationAccessPolicy"
+    "arn:aws:iam::aws:policy/service-role/AIDevOpsConstellationAccessPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSAgentRegistryServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AWSTransformLandingZoneAgentPolicy",
+    "arn:aws:iam::aws:policy/AWSTransformServerMigrationAgentPolicy",
+    "arn:aws:iam::aws:policy/AWSTransformNetworkMigrationAgentPolicy",
+    "arn:aws:iam::aws:policy/AWSBackupAccessPointOperatorAccess",
+    "arn:aws:iam::aws:policy/AgentRegistryFullAccess",
+    "arn:aws:iam::aws:policy/AgentRegistryReadOnlyAccess",
+    "arn:aws:iam::aws:policy/AmazonODBReadOnlyAccess",
+    "arn:aws:iam::aws:policy/job-function/AmazonODBNetworkAdmin",
+    "arn:aws:iam::aws:policy/job-function/AmazonODBExadataInfrastructureAdmin",
+    "arn:aws:iam::aws:policy/job-function/AmazonODBAutonomousVmClusterAdmin"
 ]
