@@ -1562,5 +1562,8 @@
     "arn:aws:iam::aws:policy/AmazonODBReadOnlyAccess",
     "arn:aws:iam::aws:policy/job-function/AmazonODBNetworkAdmin",
     "arn:aws:iam::aws:policy/job-function/AmazonODBExadataInfrastructureAdmin",
-    "arn:aws:iam::aws:policy/job-function/AmazonODBAutonomousVmClusterAdmin"
+    "arn:aws:iam::aws:policy/job-function/AmazonODBAutonomousVmClusterAdmin",
+    "arn:aws:iam::aws:policy/AmazonBioDiscoveryFullAccess",
+    "arn:aws:iam::aws:policy/AmazonBioDiscoveryInAppFullAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/NetworkSecurityManagerServiceRolePolicy"
 ]
