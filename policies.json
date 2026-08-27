@@ -1566,5 +1566,7 @@
     "arn:aws:iam::aws:policy/AmazonBioDiscoveryFullAccess",
     "arn:aws:iam::aws:policy/AmazonBioDiscoveryInAppFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/NetworkSecurityManagerServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AIDevOpsReleaseManagementVPCPolicy"
+    "arn:aws:iam::aws:policy/AIDevOpsReleaseManagementVPCPolicy",
+    "arn:aws:iam::aws:policy/service-role/AIDevOpsChannelAccessPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AssuranceServiceRolePolicy"
 ]
