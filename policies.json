@@ -1568,5 +1568,9 @@
     "arn:aws:iam::aws:policy/aws-service-role/NetworkSecurityManagerServiceRolePolicy",
     "arn:aws:iam::aws:policy/AIDevOpsReleaseManagementVPCPolicy",
     "arn:aws:iam::aws:policy/service-role/AIDevOpsChannelAccessPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AssuranceServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AssuranceServiceRolePolicy",
+    "arn:aws:iam::aws:policy/job-function/AmazonODBExascaleVmClusterAdmin",
+    "arn:aws:iam::aws:policy/job-function/AmazonODBExascaleStorageVaultAdmin",
+    "arn:aws:iam::aws:policy/job-function/AmazonODBExadataVmClusterAdmin",
+    "arn:aws:iam::aws:policy/job-function/AmazonODBAutonomousDatabaseAdmin"
 ]
