@@ -1572,5 +1572,6 @@
     "arn:aws:iam::aws:policy/job-function/AmazonODBExascaleVmClusterAdmin",
     "arn:aws:iam::aws:policy/job-function/AmazonODBExascaleStorageVaultAdmin",
     "arn:aws:iam::aws:policy/job-function/AmazonODBExadataVmClusterAdmin",
-    "arn:aws:iam::aws:policy/job-function/AmazonODBAutonomousDatabaseAdmin"
+    "arn:aws:iam::aws:policy/job-function/AmazonODBAutonomousDatabaseAdmin",
+    "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodInferenceGatewayAccess"
 ]
