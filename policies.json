@@ -1574,5 +1574,10 @@
     "arn:aws:iam::aws:policy/job-function/AmazonODBExadataVmClusterAdmin",
     "arn:aws:iam::aws:policy/job-function/AmazonODBAutonomousDatabaseAdmin",
     "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodInferenceGatewayAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSWellArchitectedAgentOrganizationsServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSWellArchitectedAgentOrganizationsServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBillingConductorRolePolicy",
+    "arn:aws:iam::aws:policy/CloudWatchOmniSpaceAccessPolicy",
+    "arn:aws:iam::aws:policy/CloudWatchOmniDomainAccessPolicy",
+    "arn:aws:iam::aws:policy/CloudWatchOmniModelInferencePolicy",
+    "arn:aws:iam::aws:policy/CloudWatchOmniAWSIntegrationPolicy"
 ]
