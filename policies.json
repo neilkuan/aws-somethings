@@ -1581,5 +1581,6 @@
     "arn:aws:iam::aws:policy/CloudWatchOmniModelInferencePolicy",
     "arn:aws:iam::aws:policy/CloudWatchOmniAWSIntegrationPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSCloudWatchOmniServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSTransferServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSTransferServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonECSInfrastructureRoleForGatewayHostSharedALB"
 ]
