@@ -878,8 +878,6 @@
     "arn:aws:iam::aws:policy/service-role/AmazonGrafanaRedshiftAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSMigrationHubRefactorSpacesServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSMigrationHubRefactorSpacesFullAccess",
-    "arn:aws:iam::aws:policy/AmazonCloudWatchEvidentlyReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AmazonCloudWatchEvidentlyFullAccess",
     "arn:aws:iam::aws:policy/AmazonCloudWatchRUMReadOnlyAccess",
     "arn:aws:iam::aws:policy/AmazonCloudWatchRUMFullAccess",
     "arn:aws:iam::aws:policy/AmazonInspector2FullAccess",
@@ -948,7 +946,6 @@
     "arn:aws:iam::aws:policy/AmazonEKSLocalOutpostClusterPolicy",
     "arn:aws:iam::aws:policy/AmazonSSMManagedEC2InstanceDefaultPolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerCanvasFullAccess",
-    "arn:aws:iam::aws:policy/aws-service-role/AmazonCloudWatchEvidentlyServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSDeviceFarmServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSIoTFleetwiseServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSSupportPlansReadOnlyAccess",
@@ -1582,5 +1579,6 @@
     "arn:aws:iam::aws:policy/CloudWatchOmniAWSIntegrationPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSCloudWatchOmniServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSTransferServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AmazonECSInfrastructureRoleForGatewayHostSharedALB"
+    "arn:aws:iam::aws:policy/AmazonECSInfrastructureRoleForGatewayHostSharedALB",
+    "arn:aws:iam::aws:policy/aws-service-role/EndUserMessagingServiceRolePolicy"
 ]
