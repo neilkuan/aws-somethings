@@ -1581,5 +1581,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSTransferServiceRolePolicy",
     "arn:aws:iam::aws:policy/AmazonECSInfrastructureRoleForGatewayHostSharedALB",
     "arn:aws:iam::aws:policy/aws-service-role/EndUserMessagingServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSLambdaInvokeWebFunctionEndpointAccess"
+    "arn:aws:iam::aws:policy/AWSLambdaInvokeWebFunctionEndpointAccess",
+    "arn:aws:iam::aws:policy/AWSSecurityAgentContinuousPentestPolicy"
 ]
