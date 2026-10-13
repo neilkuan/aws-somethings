@@ -1582,5 +1582,7 @@
     "arn:aws:iam::aws:policy/AmazonECSInfrastructureRoleForGatewayHostSharedALB",
     "arn:aws:iam::aws:policy/aws-service-role/EndUserMessagingServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSLambdaInvokeWebFunctionEndpointAccess",
-    "arn:aws:iam::aws:policy/AWSSecurityAgentContinuousPentestPolicy"
+    "arn:aws:iam::aws:policy/AWSSecurityAgentContinuousPentestPolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerTrainingSessionAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerTrainingSessionFullAccess"
 ]
