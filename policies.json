@@ -437,8 +437,6 @@
     "arn:aws:iam::aws:policy/AmazonDocDBReadOnlyAccess",
     "arn:aws:iam::aws:policy/AmazonDocDBConsoleFullAccess",
     "arn:aws:iam::aws:policy/service-role/AWSBackupServiceRolePolicyForBackup",
-    "arn:aws:iam::aws:policy/AWSIoTEventsReadOnlyAccess",
-    "arn:aws:iam::aws:policy/AWSIoTEventsFullAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSElasticBeanstalkMaintenance",
     "arn:aws:iam::aws:policy/service-role/AWSBackupServiceRolePolicyForRestores",
     "arn:aws:iam::aws:policy/service-role/AWSTransferLoggingAccess",
