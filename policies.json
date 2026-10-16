@@ -1583,5 +1583,6 @@
     "arn:aws:iam::aws:policy/AWSSecurityAgentContinuousPentestPolicy",
     "arn:aws:iam::aws:policy/AmazonSageMakerTrainingSessionAccess",
     "arn:aws:iam::aws:policy/AmazonSageMakerTrainingSessionFullAccess",
-    "arn:aws:iam::aws:policy/service-role/SageMakerStudioDataAppsAccessRolePolicy"
+    "arn:aws:iam::aws:policy/service-role/SageMakerStudioDataAppsAccessRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSContinuumCollectorServiceRolePolicy"
 ]
