@@ -1587,5 +1587,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSContinuumCollectorServiceRolePolicy",
     "arn:aws:iam::aws:policy/service-role/AmazonQuickSuiteAccessPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSFinOpsAgentServiceRolePolicy",
-    "arn:aws:iam::aws:policy/service-role/AssuranceOperatorPolicy"
+    "arn:aws:iam::aws:policy/service-role/AssuranceOperatorPolicy",
+    "arn:aws:iam::aws:policy/service-role/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy"
 ]
