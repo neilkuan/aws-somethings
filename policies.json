@@ -1589,5 +1589,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSFinOpsAgentServiceRolePolicy",
     "arn:aws:iam::aws:policy/service-role/AssuranceOperatorPolicy",
     "arn:aws:iam::aws:policy/service-role/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy",
-    "arn:aws:iam::aws:policy/AWSXRayAPIKeyAccess"
+    "arn:aws:iam::aws:policy/AWSXRayAPIKeyAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSIPAMOutboundServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/TagsHealthServiceRolePolicy"
 ]
