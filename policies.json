@@ -1592,5 +1592,6 @@
     "arn:aws:iam::aws:policy/AWSXRayAPIKeyAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSIPAMOutboundServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/TagsHealthServiceRolePolicy",
-    "arn:aws:iam::aws:policy/FinOpsAgentIdentityReaderPolicy"
+    "arn:aws:iam::aws:policy/FinOpsAgentIdentityReaderPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/Route53PrivateHealthChecksServiceRolePolicy"
 ]
