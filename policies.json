@@ -498,7 +498,6 @@
     "arn:aws:iam::aws:policy/ElementalAppliancesSoftwareFullAccess",
     "arn:aws:iam::aws:policy/AWSAppMeshPreviewEnvoyAccess",
     "arn:aws:iam::aws:policy/aws-service-role/AWSVPCS2SVpnServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForSMS",
     "arn:aws:iam::aws:policy/service-role/AWSIoTDeviceDefenderEnableIoTLoggingMitigationAction",
     "arn:aws:iam::aws:policy/service-role/AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction",
     "arn:aws:iam::aws:policy/service-role/AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction",
