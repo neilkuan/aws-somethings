@@ -1596,5 +1596,8 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSPartnerCentralAccountManagementServiceRolePolicy",
     "arn:aws:iam::aws:policy/AWSCompromisedKeyQuarantineV4",
     "arn:aws:iam::aws:policy/AWSCODAPermissionsBoundary",
-    "arn:aws:iam::aws:policy/AIDevOpsOrganizationsAccessPolicy"
+    "arn:aws:iam::aws:policy/AIDevOpsOrganizationsAccessPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSCODAServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSNotificationsContactAssociationsServiceLinkedRolePolicy",
+    "arn:aws:iam::aws:policy/AWSPartnerCentralBusinessPlanManagement"
 ]
