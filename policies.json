@@ -1599,5 +1599,7 @@
     "arn:aws:iam::aws:policy/AIDevOpsOrganizationsAccessPolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSCODAServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSNotificationsContactAssociationsServiceLinkedRolePolicy",
-    "arn:aws:iam::aws:policy/AWSPartnerCentralBusinessPlanManagement"
+    "arn:aws:iam::aws:policy/AWSPartnerCentralBusinessPlanManagement",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSNetworkFirewallIGWServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AmazonBioDiscoveryServiceLinkedRolePolicy"
 ]
