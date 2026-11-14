@@ -1602,5 +1602,6 @@
     "arn:aws:iam::aws:policy/AWSPartnerCentralBusinessPlanManagement",
     "arn:aws:iam::aws:policy/aws-service-role/AWSNetworkFirewallIGWServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonBioDiscoveryServiceLinkedRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceAgenticCommerceServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceAgenticCommerceServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/ContinuumThreatsServiceRolePolicy"
 ]
