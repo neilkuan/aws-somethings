@@ -1603,5 +1603,7 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSNetworkFirewallIGWServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AmazonBioDiscoveryServiceLinkedRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceAgenticCommerceServiceRolePolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/ContinuumThreatsServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/ContinuumThreatsServiceRolePolicy",
+    "arn:aws:iam::aws:policy/CloudWatchOmniAWSIntegrationPolicyV2",
+    "arn:aws:iam::aws:policy/KiroVpcConnectionPolicy"
 ]
