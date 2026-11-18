@@ -1605,5 +1605,10 @@
     "arn:aws:iam::aws:policy/aws-service-role/AWSMarketplaceAgenticCommerceServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/ContinuumThreatsServiceRolePolicy",
     "arn:aws:iam::aws:policy/CloudWatchOmniAWSIntegrationPolicyV2",
-    "arn:aws:iam::aws:policy/KiroVpcConnectionPolicy"
+    "arn:aws:iam::aws:policy/KiroVpcConnectionPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSPartnerCentralMarketingServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodInferenceGatewayMetricsPublisherAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerHyperPodInferenceGatewayGlobalRoutingAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerGlobalInferenceGatewayExecutionAccess",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSAPIPortalServiceRolePolicy"
 ]
