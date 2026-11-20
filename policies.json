@@ -1615,5 +1615,9 @@
     "arn:aws:iam::aws:policy/AWSAccountAccessManagerEntitlementManager",
     "arn:aws:iam::aws:policy/AWSAccountAccessManagerAdministrator",
     "arn:aws:iam::aws:policy/service-role/CloudWatchOmniDevOpsAgentInvestigationServiceRolePolicy",
-    "arn:aws:iam::aws:policy/CloudWatchOmniGrantEnforcementPolicy"
+    "arn:aws:iam::aws:policy/CloudWatchOmniGrantEnforcementPolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/CertificateManagerOrganizationManagementServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/VirtualEdgeNetworkServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/CertificateManagerInventoryServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/ConnectCampaignsInternalReserveRolePolicy"
 ]
