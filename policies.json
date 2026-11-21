@@ -1619,5 +1619,6 @@
     "arn:aws:iam::aws:policy/aws-service-role/CertificateManagerOrganizationManagementServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/VirtualEdgeNetworkServiceRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/CertificateManagerInventoryServiceRolePolicy",
-    "arn:aws:iam::aws:policy/service-role/ConnectCampaignsInternalReserveRolePolicy"
+    "arn:aws:iam::aws:policy/service-role/ConnectCampaignsInternalReserveRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSBudgetsActionExecutionPolicy"
 ]
