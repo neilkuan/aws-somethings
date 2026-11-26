@@ -1622,5 +1622,12 @@
     "arn:aws:iam::aws:policy/service-role/ConnectCampaignsInternalReserveRolePolicy",
     "arn:aws:iam::aws:policy/aws-service-role/AWSBudgetsActionExecutionPolicy",
     "arn:aws:iam::aws:policy/CloudWatchOmniProvisioningPolicy",
-    "arn:aws:iam::aws:policy/aws-service-role/AWSContinuumConfigurationsServiceRolePolicy"
+    "arn:aws:iam::aws:policy/aws-service-role/AWSContinuumConfigurationsServiceRolePolicy",
+    "arn:aws:iam::aws:policy/service-role/AmplifyGen3ServiceRolePolicy",
+    "arn:aws:iam::aws:policy/aws-service-role/AWSContinuumForAgentsServiceRolePolicy",
+    "arn:aws:iam::aws:policy/AmazonSageMakerAIModelDeploymentAndCustomizationAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerAIDataPreparationAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerAIKnowledgeBaseEvaluationAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerAIPromptOptimizationAccess",
+    "arn:aws:iam::aws:policy/AmazonSageMakerAIUnifiedEvaluationAccess"
 ]
